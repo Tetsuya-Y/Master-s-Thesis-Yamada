@@ -1,0 +1,28 @@
+Leader: 右上に正方形が浮く形だよ Analytic
+Follower: 右上に傾いた正方形だね Analytic
+Leader: 『宙返り』で Holistic
+Follower: 宙返りでいこう Holistic
+Leader: 右側が垂直で左に凹みがあるよ Analytic
+Follower: 右は垂直で左が凹み Analytic
+Leader: 『モニュメント』で Holistic
+Follower: いいね、モニュメントで。 Holistic
+Leader: サボテンみたいに両腕を上げた形 Mixed
+Follower: 四方に尖って縦柱あり Analytic
+Leader: それなら、この形は「サボテン」でいかがですか？ Holistic
+Follower: サボテンで決まりだね Holistic
+Leader: ドレスの天使が祈る横姿だよ Holistic
+Follower: 翼と水平な裾が合うよ Analytic
+Leader: 上の傾いた正方形が冠みたい Mixed
+Follower: 角接続の正方形が冠だね Analytic
+Leader: それなら、名前は「祈りの天使」でどうかな。 Holistic
+Follower: いいね、その名前でいこう 
+Leader: 横向きのカニみたいに尖りが広がるよ Mixed
+Follower: 合うよ、トゲが左右に広がる Analytic
+Leader: 左上は大三角、中央が縦長 Analytic
+Follower: 左上大三角で中央縦長だね Analytic
+Leader: 左上の大三角と中央縦長、横向きのカニで「紅蟹」はどう？ Mixed
+Follower: 紅蟹でいこう。 Holistic
+Leader: 右上から左下へV字に伸びる矢印 Analytic
+Follower: あるよ、右上→左下の流れ Analytic
+Leader: それなら、この形は「飛燕の矢」でいかがでしょう。 Holistic
+Follower: いいね、その名でいこう 

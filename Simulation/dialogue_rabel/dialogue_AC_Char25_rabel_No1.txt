@@ -1,0 +1,38 @@
+Leader: 右端に三角の頭 底平らで左へ尾が伸びる Analytic
+Follower: 底は平らで左に尾、右が頭。 Analytic
+Leader: 「カモメ舟」で。Holistic
+Follower: 賛成です。カモメ舟で。Holistic
+Leader: エックス字で中央がくびれ四方に角が伸びる Mixed
+Follower: 四方に角のX字で中央くびれ。 Mixed
+Leader: 『手裏剣』で。Holistic
+Follower: 了解です。手裏剣で。Holistic
+Leader: 右に小三角が付く縦長ロケット風だよ Mixed
+Follower: あるよ。右に小三角でロケット風。 Mixed
+Leader: じゃあ、これは「サボテンロケット」で。Holistic
+Follower: いいね、サボテンロケットで。Holistic
+Leader: 祈る人の横顔に見えて、右が直線で縦長 Mixed
+Follower: 右が直線で縦長、左に四角突出 Analytic
+Leader: 上に右向き三角が載る積み木のモニュメント Analytic
+Follower: 縦積みで上に右向き三角だね Analytic
+Leader: 「祈りの塔」で。Holistic
+Follower: 賛成です。祈りの塔でいきましょう。 Holistic
+Leader: 右上に四角い頭で右へ傾き走る人 Mixed
+Follower: あるよ、右上正方形で右へ傾く Analytic
+Leader: これは「キックダッシュ」と呼びましょう。 Holistic
+Follower: いいね、キックダッシュで。Holistic
+Leader: 右上に傾いた四角い頭で弓なり跳ねるウサギ Mixed
+Follower: ありません
+Leader: 左下に尻尾三角で太めのカンガルーです Mixed
+Follower: あなたの説明だと命名済みの『キックダッシュ』が当てはまります。間違えていたかもしれないのでやり直しませんか？ Holistic
+Leader: わかりました。『キックダッシュ』と命名したタングラムの命名を撤回します。 Holistic
+Follower: わかりました
+Leader: 中央は平行四辺形で右下が蹴る人 Mixed
+Follower: あるよ、中央平行四辺形で右下が蹴る Analytic
+Leader: 『蹴り出し』で。Holistic
+Follower: 賛成です。蹴り出しで。Holistic
+Leader: 向きが変わっても踊る人にも見える影絵のキツネだよ Holistic
+Follower: あるよ、弓なりで背中が滑らか Holistic
+Leader: 右上に傾く四角い頭と左下の尻尾です Analytic
+Follower: あるよ、右上の傾いた正方形と左下の尻尾。 Analytic
+Leader: では、この図形は「跳ねウサギ」で。Holistic
+Follower: 跳ねウサギでいきましょう。 Holistic

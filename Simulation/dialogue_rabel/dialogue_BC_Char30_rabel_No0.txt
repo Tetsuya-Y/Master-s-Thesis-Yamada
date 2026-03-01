@@ -1,0 +1,36 @@
+Leader: 右上に正方形、中央S字で左下へ流れる Mixed
+Follower: 中央S字で右上の正方形、左下へ流れます Mixed
+Leader: それなら、名前は『宙返りダンサー』でどうでしょう。 Holistic
+Follower: いいですね、その名前でいきましょう。 
+Leader: 右が垂直、左に四角い凹み、頂は左上向き Analytic
+Follower: 左に四角い凹み、右は垂直で頂は左上 Analytic
+Leader: では、この図形は『杖つき老人』でいかがでしょう。 Holistic
+Follower: はい、その名前でいきましょう。 
+Leader: 上に三角、中央に柱、左へ土台が張り出します。 Analytic
+Follower: 当てはまります。中央の柱と左土台、上三角。 Analytic
+Leader: では、名前はサボテンでどうでしょう。 Holistic
+Follower: はい、サボテンにしましょう。 Holistic
+Leader: 祈る天使のように左に翼、上に傾いた正方形 Mixed
+Follower: 当てはまります。左に翼と上の傾いた正方形。 Analytic
+Leader: では、この図形は『祈りの天使』と呼びましょう。 Holistic
+Follower: はい、その名前でいきます。 
+Leader: 折り紙の鶴みたいで、右下に鋭い突起と下に小さな角。 Mixed
+Follower: 鶴みたいで右下の突起と下の小三角。 Mixed
+Leader: それでは、この図形は『折り鶴の紋章』と呼びませんか。 Holistic
+Follower: はい、その名前でいきましょう。 
+Leader: 右上の鋭い三角から左下へ流れ、V字形です。 Analytic
+Follower: ありません
+Leader: 左に大三角と下向き小三角で、矢印に見えますか？ Mixed
+Follower: あなたの説明だと命名済みの『折り鶴の紋章』が当てはまります。間違えていたかもしれないのでやり直しませんか？ Holistic
+Leader: わかりました。『折り鶴の紋章』と命名したタングラムの命名を撤回します。 Holistic
+Follower: わかりました 
+Leader: 左上に直角大三角、中央は縦柱、蟹っぽいです。 Mixed
+Follower: 当てはまります。中央に縦柱で蟹っぽい。 Mixed
+Leader: では、『カニドローン』で。 Holistic
+Follower: はい、カニドローンでいきましょう。 Holistic
+Leader: 水面を跳ねる魚のようで滑空するツバメにも見えます Holistic
+Follower: 当てはまります。飛ぶ鳥でV字の印象です。 Mixed
+Leader: 右上の鋭い三角から左下へ斜めに伸びます Analytic
+Follower: 当てはまります。右上先端が最高で左下へ。 Analytic
+Leader: それでは、この図形は『飛燕の矢』と呼びませんか？ Holistic
+Follower: はい、その名前でいきましょう。 

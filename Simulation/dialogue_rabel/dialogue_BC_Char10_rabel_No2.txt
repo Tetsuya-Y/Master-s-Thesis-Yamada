@@ -1,0 +1,46 @@
+Leader: S字の身ごなし Holistic
+Follower: S字中央多角形だ Mixed
+Leader: 『宙返り』で Holistic
+Follower: 賛成です
+Leader: 左上三角の塔 Mixed
+Follower: 柱で塔、左上三角 Analytic
+Leader: 『杖つき翁』で Holistic
+Follower: いいですね。 
+Leader: 砂漠のサボテンかな Holistic
+Follower: あるよ、四方に尖る Analytic
+Leader: 燃える松明かな Holistic
+Follower: 柱と土台だ Analytic
+Leader: 鍵のシルエットかも Holistic
+Follower: あるよ、柱と四角 Analytic
+Leader: 万歳する人みたい。 Holistic
+Follower: 踊る人あるよ Holistic
+Leader: 抽象樹かな Holistic
+Follower: 四方に尖るよ Analytic
+Leader: 上向き三角だ Analytic
+Follower: 四方に尖り上も三角 Analytic
+Leader: それなら『サボテン』はどう？ Holistic
+Follower: いいね。 
+Leader: 祈る天使に見える。 Holistic
+Follower: ある、翼と人 Holistic
+Leader: 上に傾く四角だね Analytic
+Follower: 左に傾く正方形 Analytic
+Leader: 『祈る天使』で Holistic
+Follower: 賛成です
+Leader: 折り紙の鶴みたい。 Holistic
+Follower: 飛ぶ鳥でV字だ Mixed
+Leader: 横向きの蟹に見える Analytic
+Follower: 右に鋭角だ Analytic
+Leader: 紋章みたいだね Holistic
+Follower: V字で紋章だね Mixed
+Leader: それなら、『蟹紋』でどうでしょう。 Holistic
+Follower: 賛成です
+Leader: 鋭いブーメランだよ Holistic
+Follower: ありません
+Leader: 滑空するツバメかな Holistic
+Follower: ある、鳥だ Holistic
+Leader: 矢印っぽいね Holistic
+Follower: ある、右に鋭角 Analytic
+Leader: 水面で跳ねる魚かな Holistic
+Follower: 魚の形ある Holistic
+Leader: 鋭い飛翔感から『ツバメ矢』で。 Holistic
+Follower: 賛成です

@@ -1,0 +1,26 @@
+Leader: 右上の正方形と中央S字 Analytic
+Follower: 中央S字と右上正方形です Analytic
+Leader: では、この図形は『宙返り』でいかがでしょう。 Holistic
+Follower: 宙返りでいきましょう。 Holistic
+Leader: 右側垂直で左四角のくぼみですか Analytic
+Follower: 合います右辺垂直左四角 Analytic
+Leader: それなら、名前は『モノリス』でどうでしょう。 Holistic
+Follower: モノリスでいきましょう。 Holistic
+Leader: サボテンのように柱が伸び左に台座 Analytic
+Follower: 中央柱状右辺垂直左台座 Analytic
+Leader: では、名前は『サボテン』でいかがでしょう。 Holistic
+Follower: サボテンでいきましょう。 Holistic
+Leader: 翼を広げた天使の姿でしょうか。 Holistic
+Follower: 翼状に広がり柱状です Analytic
+Leader: では、名前は「祈りの天使」でいかがでしょう。 Holistic
+Follower: 祈りの天使でお願いします。 Holistic
+Leader: 中央縦長で右下尖る紋章 Analytic
+Follower: 合います中央V字下部小三角 Analytic
+Leader: 「折り鶴」で。 Holistic
+Follower: それでお願いします。 
+Leader: 斜めに流れる鋭いブーメランですか Holistic
+Follower: ありません
+Leader: 水面を跳ねる魚の矢印形ですか Holistic
+Follower: 合います魚形と底辺水平 Mixed
+Leader: それなら、名前は「トビウオ」でどうでしょう。 Holistic
+Follower: トビウオでお願いします。 Holistic

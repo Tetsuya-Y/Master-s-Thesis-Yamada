@@ -1,0 +1,24 @@
+Leader: 右端は三角の頭、山形で左に尾が伸びる舟。 Mixed
+Follower: 右端に頭の三角があり、山形で左に尾が伸びます Analytic
+Leader: それでは、この図形を『折り鶴舟』と呼びませんか？ Holistic
+Follower: いいですね、折り鶴舟にしましょう。 Holistic
+Leader: 風車みたいな中央がくびれたX字で四方に角が出ます Analytic
+Follower: 四方に角が出て右上に平行四辺形ですね Analytic
+Leader: ばってんくびれの『風車手裏剣』で。Holistic
+Follower: いいですね、風車手裏剣でいきましょう。 Holistic
+Leader: サボテン縦長で右に小三角、左下に傾いた四角。 Analytic
+Follower: 縦長で右に小三角、左下に傾いた正方形ですね Analytic
+Leader: では『サボテンロケット』で。Holistic
+Follower: いいですね、サボテンロケットでいきましょう。 Holistic
+Leader: 上に右向き三角、右が直線で縦積みの祈る横顔。 Mixed
+Follower: 上に右向き三角で右直線の縦積み、祈る横顔ですね Mixed
+Leader: では、この図形は『祈る横顔塔』でいかがでしょう。 Mixed
+Follower: いいですね、その名前でいきましょう。 
+Leader: 右上に四角の頭で右傾きの走者に見えます Mixed
+Follower: あります、右傾きと右上の正方形。 Analytic
+Leader: 右上に正方形の頭の走者、『キックランナー』で。Holistic
+Follower: いいですね、キックランナーでいきましょう。 Holistic
+Leader: 弓なりで中央太く左下尻尾三角、跳ねるウサギ？ Mixed
+Follower: あります、弓なりで中央太く左下尖り。 Analytic
+Leader: 『跳ねウサギ』で。Holistic
+Follower: いいですね、『跳ねウサギ』でいきましょう。 Holistic

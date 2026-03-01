@@ -1,0 +1,40 @@
+Leader: 宙返りする人影が右上へ流れる Mixed
+Follower: V字に折れ右上が最高点で合う Analytic
+Leader: それなら「フリップイルカ」で。 Holistic
+Follower: いいですね
+Leader: 右が垂直で左に四角の凹みです Analytic
+Follower: 右辺垂直と左の四角凹み合う Analytic
+Leader: それなら、この図形は「モニュメントロボ」でどうでしょう。 Holistic
+Follower: その名前でいきましょう
+Leader: 上は三角で柱太く左に台 Analytic
+Follower: 上三角と太柱左台で合う Analytic
+Leader: 「バンザイサボテン」で。 Holistic
+Follower: いいですね、決まりです。 
+Leader: 向きが違っても祈る天使ですよ Holistic
+Follower: 左に翼と水平な底合う Analytic
+Leader: 上に傾いた正方形が載る Analytic
+Follower: 上の傾いた正方形合う Analytic
+Leader: 『祈りの天使』で。 Holistic
+Follower: その名前でいきましょう
+Leader: 横向きのカニの紋章みたいです Mixed
+Follower: 左右の突起と水平な底合う Analytic
+Leader: 左上三角と右下は鋭い三角 Analytic
+Follower: 左に翼と右下鋭角で合う Analytic
+Leader: それなら「カニの紋章」で。 Holistic
+Follower: その名前でいきましょう
+Leader: 水面を跳ねるブーメランの矢印かな Holistic
+Follower: ありません
+Leader: 滑空するツバメが斜めに伸びます Holistic
+Follower: あなたの説明だと命名済みの『フリップイルカ』が当てはまります。間違えていたかもしれないのでやり直しませんか？ Holistic
+Leader: わかりました。『フリップイルカ』と命名したタングラムの命名を撤回します。 Holistic
+Follower: わかりました Holistic
+Leader: 横たわる人影で中央がV字です Mixed
+Follower: 中央V字と人影で合う Mixed
+Leader: 斜めに伸びる鋭さから『ブーメランツバメ』でどうでしょう。 Holistic
+Follower: その名前でいきましょう
+Leader: 右上に正方形と鋭い三角です Analytic
+Follower: ありません
+Leader: 宙返りする運動選手の姿です Holistic
+Follower: 中心から四方に尖りアクロバット Analytic
+Leader: それなら、名前は『アクロバット』で。 Holistic
+Follower: その名前でいきましょう

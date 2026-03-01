@@ -1,0 +1,26 @@
+Leader: 右上に正方形、S字で左下へ流れます Mixed
+Follower: 当てはまるよ。右上正方形、S字で左下。 Mixed
+Leader: 『宙返りの舞』でどう？ Holistic
+Follower: その名前でいこう 
+Leader: 右側が垂直で、上は左上向きの三角です Analytic
+Follower: 合うよ右側垂直で上に左上三角 Analytic
+Leader: 『杖の翁』でどう？ Holistic
+Follower: 賛成、その名前でいこう。 
+Leader: 上向き三角と左傾き正方形が柱に付く Analytic
+Follower: 合うよ 柱に上三角と左傾き正方 Analytic
+Leader: 『砂漠の松明』で Holistic
+Follower: 賛成、その名前でいこう。 
+Leader: 中央は台形で左に翼、右に鋭いとがり Analytic
+Follower: 合うよ中央台形で左に翼右に鋭角 Analytic
+Leader: では、この図形は『祈りの天使』でいかがでしょう。 Holistic
+Follower: いいですね、その名前でいきましょう。 
+Leader: 横向きの蟹に見え、左上に大きな三角あり。 Mixed
+Follower: 合うよ 四方に尖り 左上大三角 Analytic
+Leader: それなら、この図形は「砂浜の蟹」でいかがでしょう。 Holistic
+Follower: いいですね、その名でいきましょう。 
+Leader: 滑空ツバメのように右上から左下へ折れます Mixed
+Follower: 当てはまるよ 右上が最高点でV字 Analytic
+Leader: 右上に上向き三角、左は水平の大三角 Analytic
+Follower: 合うよ 左に水平大三角 右上上向き三角 Analytic
+Leader: それなら、この図形は『水切りの魚』でいかがでしょう。 Holistic
+Follower: いいですね、その名前でいきましょう。

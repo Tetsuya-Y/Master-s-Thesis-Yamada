@@ -1,0 +1,56 @@
+Leader: 左右対称の座禅僧 Mixed
+Follower: 左右対称で台座 Analytic
+Leader: では、名前は「座禅蝶」にしましょう。 Holistic
+Follower: 賛成です。 
+Leader: 走る人影に見えます Holistic
+Follower: 跳躍の人影 Holistic
+Leader: では、名前は「疾走者」でどうでしょう。 Holistic
+Follower: 賛成です。 
+Leader: 白鳥でV字の切れ込み Mixed
+Follower: 白鳥でV字谷間 Mixed
+Leader: では、名前は「白鳥」でいきましょう。 Holistic
+Follower: 賛成です。 
+Leader: 高速矢印です。 Holistic
+Follower: ありません
+Leader: 鋭く進む紙飛行機 Holistic
+Follower: あります低空右傾 Holistic
+Leader: 水面を跳ねる大魚だ Holistic
+Follower: 水面の鳥でS字 Holistic
+Leader: 深いV字の機影 Mixed
+Follower: ありません
+Leader: 右肩上がり鋭角です Analytic
+Follower: あなたの説明だと命名済みの『疾走者』が当てはまります。間違えていたかもしれないのでやり直しませんか？ Holistic
+Leader: わかりました。『疾走者』と命名したタングラムの命名を撤回します。 Holistic
+Follower: わかりました 
+Leader: 右上に離れ四角だ Analytic
+Follower: ありません
+Leader: 片足で踊るダンサーですね。 Holistic
+Follower: あります踊る人 Holistic
+Leader: 前進する人影です。 Holistic
+Follower: あります走る人 Holistic
+Leader: 旗振りの人影ですね Holistic
+Follower: あります踊る人 Holistic
+Leader: 跳ね回る子供かな Holistic
+Follower: あります踊る人 Holistic
+Leader: 中央に太い縦軸 Analytic
+Follower: あります太い縦軸 Analytic
+Leader: 走る人のシルエットですね。中央の縦軸が効いています。名前は「ダッシュ」でどうでしょう。 Mixed
+Follower: 賛成です。 
+Leader: 左下の鋭角 Analytic
+Follower: あります左下鋭角 Analytic
+Leader: では、名前は「飛燕」でいきましょう。 Holistic
+Follower: 賛成です。 
+Leader: 細長いロボットかな Holistic
+Follower: あります縦長 Analytic
+Leader: では、この図形は「サボテン」と名付けませんか？ Holistic
+Follower: 賛成です。 
+Leader: 炎が立つ像ですね Holistic
+Follower: ありますS字 Holistic
+Leader: 祈る人影ですね Holistic
+Follower: ありますS字 Holistic
+Leader: 舞う女性です。 Holistic
+Follower: ありますS字 Holistic
+Leader: 頂上に鋭い三角 Analytic
+Follower: あります頂上鋭角 Analytic
+Leader: 『舞姫』で Holistic
+Follower: 賛成です。 

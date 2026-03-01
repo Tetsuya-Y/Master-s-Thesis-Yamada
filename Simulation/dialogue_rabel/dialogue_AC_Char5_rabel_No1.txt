@@ -1,0 +1,46 @@
+Leader: 座禅姿です。 Holistic
+Follower: 手を広げた人？ Holistic
+Leader: 大きな蝶 Holistic
+Follower: 左右対称で羽広がる Analytic
+Leader: 急須ですか？ Holistic
+Follower: 台形土台 Analytic
+Leader: 上向き四角？ Analytic
+Follower: 正方形浮き Analytic
+Leader: では、名前は「座禅」でどうでしょう。 Holistic
+Follower: 賛成
+Leader: 走る人です。 Holistic
+Follower: あるよ 飛ぶ人 Holistic
+Leader: 片足ダンス。 Holistic
+Follower: 片足あり Holistic
+Leader: では、名前は『ランナー』でどうでしょう。 Holistic
+Follower: 賛成
+Leader: 白鳥舟です。 Holistic
+Follower: 白鳥で横長 Mixed
+Leader: では、名前は「白鳥」でどうでしょう。 Holistic
+Follower: 賛成
+Leader: 紙飛行機です。 Holistic
+Follower: 矢印 Holistic
+Leader: V字切れ目 Analytic
+Follower: あるよV切れ目 Holistic
+Leader: それなら、名前は「ジェット」でいかがでしょう。 Holistic
+Follower: 賛成
+Leader: サボテン風かな。 Holistic
+Follower: あるよ 上尖り縦長 Analytic
+Leader: 左上四角。 Analytic
+Follower: あるよ左四角切欠 Analytic
+Leader: それなら、名前は「サボテン」でどうでしょう。 Holistic
+Follower: 賛成
+Leader: S字の祈り Analytic
+Follower: ありません
+Leader: 舞姫像？ Holistic
+Follower: 踊る人 Holistic
+Leader: 炎の鳥？ Holistic
+Follower: あるよ 翼広がる Holistic
+Leader: 直立像です。 Holistic
+Follower: 縦長です Analytic
+Leader: 右向き土台 Analytic
+Follower: ありません
+Leader: 天向き三角 Analytic
+Follower: あるよ 上向き頂点 Analytic
+Leader: では、名前は「舞」でいかがでしょう。 Holistic
+Follower: 賛成

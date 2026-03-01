@@ -1,0 +1,48 @@
+Leader: 両翼広げた座禅僧。 Holistic
+Follower: 左右対称で台座あり Analytic
+Leader: 卓上の急須だね。 Holistic
+Follower: 左右対称で台座あり Analytic
+Leader: 着物姿で歓迎だね。 Holistic
+Follower: 手を広げた人 Holistic
+Leader: では、この図形は『座禅蝶』でどうでしょう。 Holistic
+Follower: 賛成です。 
+Leader: 全力疾走の人かな。 Holistic
+Follower: 右上がりだね Analytic
+Leader: 旗振りの人だね。 Holistic
+Follower: 右傾で足一本 Analytic
+Leader: 右上に正方形かな。 Analytic
+Follower: 右上正方形 Analytic
+Leader: では「旗手」で。 Holistic
+Follower: 賛成です。 
+Leader: 水面の白鳥の姿。 Holistic
+Follower: 白鳥で横長 Mixed
+Leader: 「白鳥」で。 Holistic
+Follower: 賛成です。
+Leader: 右矢印の機影だね。 Holistic
+Follower: 右上矢印だね Holistic
+Leader: では、「急翔」で。 Holistic
+Follower: 賛成です。 
+Leader: 右ふくらみのサボテン。 Mixed
+Follower: 右側ふくらみだね Analytic
+Leader: では、名前はサボテンでどうかな。 Holistic
+Follower: 賛成です。 
+Leader: 踊る女性像かな。 Holistic
+Follower: ありません
+Leader: 炎が昇る像だよ。 Holistic
+Follower: S字で右上がり Analytic
+Leader: 祈る人の像かな。 Holistic
+Follower: S字で台座 Analytic
+Leader: 上に尖った三角だよ。 Analytic
+Follower: ありません
+Leader: 縦長で飛び立つ鳥だよ。 Mixed
+Follower: あなたの説明だと命名済みの『サボテン』が当てはまります。間違えていたかもしれないのでやり直しませんか？ Holistic
+Leader: わかりました。『サボテン』と命名したタングラムの命名を撤回します。 Holistic
+Follower: わかりました
+Leader: 左中の傾いた四角 Analytic
+Follower: 左中四角欠け Analytic
+Leader: では、名前は『舞姫』でどうでしょう。 Holistic
+Follower: 賛成です。 Holistic
+Leader: 上向きの頂点です。 Analytic
+Follower: 上向き頂点だね Analytic
+Leader: では、この図形は『トーテム』でいかがでしょう。 Holistic
+Follower: 賛成です

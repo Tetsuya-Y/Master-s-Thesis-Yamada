@@ -1,0 +1,44 @@
+Leader: 右上に正方形です Analytic
+Follower: 正方形あり Analytic
+Leader: 『宙返り』で。 Holistic
+Follower: 了解です
+Leader: 右側が垂直です Analytic
+Follower: ありません
+Leader: 下が台形です Analytic
+Follower: 下が台形 Analytic
+Leader: では、名前は「モニュメント」でいかがでしょう。 Holistic
+Follower: 賛成です
+Leader: サボテンの形だね Holistic
+Follower: 柱とトゲ Analytic
+Leader: では、名前は『サボテン』でいかがでしょう。 Holistic
+Follower: 賛成です
+Leader: ドレスの貴婦人かも。 Holistic
+Follower: 人魚っぽい Holistic
+Leader: 祈る天使かな Holistic
+Follower: 左に翼 Analytic
+Leader: 右へ尖る角かな Mixed
+Follower: 右に三角だね Analytic
+Leader: では、名前は『祈り天使』でどうでしょう。 Holistic
+Follower: 賛成です
+Leader: 横歩きのカニかな Mixed
+Follower: ありません
+Leader: 折り紙の鶴かな Holistic
+Follower: 飛ぶ鳥でV字 Mixed
+Leader: 中央に柱あるよ Analytic
+Follower: ありません
+Leader: 複雑な紋章かな Holistic
+Follower: S字で紋章 Holistic
+Leader: 羽広げたドローン Holistic
+Follower: 飛ぶ鳥でV字 Mixed
+Leader: 手裏剣っぽい形です。 Holistic
+Follower: ありません
+Leader: 左上に大三角 Analytic
+Follower: 左に大三角 Analytic
+Leader: では、名前は『折鶴』でどうでしょう。 Holistic
+Follower: 賛成です
+Leader: ツバメの矢印かな。 Holistic
+Follower: ありません
+Leader: 水面跳ねる魚だよ Holistic
+Follower: S字で魚だね Holistic
+Leader: 『トビウオ』で。 Holistic
+Follower: 賛成です

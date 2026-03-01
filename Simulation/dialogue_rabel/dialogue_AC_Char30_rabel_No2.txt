@@ -1,0 +1,42 @@
+Leader: 右端に三角の頭、中央に山が立つ横長の鳥です。 Mixed
+Follower: 当てはまりそうです。中央の山と右端の頭があります。 Analytic
+Leader: では、この図形は「折り紙のカモメ」でどうでしょう。 Holistic
+Follower: いいですね、その名前でいきましょう。 
+Leader: 蝶ネクタイのように中央がくびれ四方が尖ります。 Mixed
+Follower: 当てはまりそうです。手裏剣の形です。 Holistic
+Leader: 風車のようなX字で、右上は平行四辺形。 Mixed
+Follower: 当てはまります。X字で右上が平行四辺形。 Analytic
+Leader: それでは、この図形は『手裏剣』でどうでしょう。 Holistic
+Follower: いいですね、その名前でいきましょう。 
+Leader: 縦長で左下に平行四辺形、右に小三角のサボテン。 Analytic
+Follower: 当てはまります。右に小三角と下部が広い。 Analytic
+Leader: それでは、この図形は「サボテンロケット」でいきましょう。 Holistic
+Follower: いいですね、その名前でいきましょう。 
+Leader: 右が直線で左に四角が張り出し、祈る横顔の像です。 Mixed
+Follower: 当てはまります。右が直線で左に四角突出。 Analytic
+Leader: では『祈りの横顔』で。Holistic
+Follower: いいですね、その名前でいきましょう。 
+Leader: 右上に四角の頭、右傾き左足が蹴る走る人。 Mixed
+Follower: 当てはまります。右上に正方形の頭と右傾き、左下が蹴り足。 Analytic
+Leader: それでは、この図形は『スプリンター』と呼びましょう。 Holistic
+Follower: いいですね、その名前でいきましょう。 
+Leader: 弓なりに反り中央が太く、左下に尻尾の三角。 Analytic
+Follower: ありません
+Leader: 右上に傾いた正方形の頭が見える跳ねるウサギですか？ Mixed
+Follower: あなたの説明だと命名済みの『スプリンター』が当てはまります。間違えていたかもしれないのでやり直しませんか？ Holistic
+Leader: わかりました。『スプリンター』と命名したタングラムの命名を撤回します。 Holistic
+Follower: わかりました
+Leader: 中央に平行四辺形、右下の三角が蹴る人です。 Mixed
+Follower: 当てはまります。中央に平行四辺形と右下が蹴り足です。 Analytic
+Leader: それでは、この図形は『疾走者』と呼びませんか？ Holistic
+Follower: いいですね、その名前でいきましょう。 
+Leader: 影絵のキツネに見えるしなやかなシルエットですか？ Holistic
+Follower: 当てはまります。弓なりで背が滑らかです。 Holistic
+Leader: 飛び込む人に見え前傾で下半身が厚めでしょうか Mixed
+Follower: 当てはまります。弓なりで中央が太いです。 Analytic
+Leader: カンガルーにも見える、躍動感ある踊る人影ですか？ Holistic
+Follower: 当てはまります。弓なりで中央が太い。 Analytic
+Leader: 右上に四角の頭、左下に尻尾の三角ありますか？ Analytic
+Follower: 当てはまります。右上に傾いた正方形と左下の尖りがあります。 Analytic
+Leader: 『跳ねウサギ』でいきましょう。 Holistic
+Follower: いいですね、その名前でいきましょう。 

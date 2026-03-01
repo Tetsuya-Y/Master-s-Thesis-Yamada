@@ -1,0 +1,52 @@
+Leader: 右上正方形、S字流れです。 Mixed
+Follower: 正方形は右上でS字流れですね。 Mixed
+Leader: では、この図形は「スカイフリップ」でいきましょう。 Holistic
+Follower: 賛成です。決まりです。 
+Leader: 左くぼみで右は直線。 Analytic
+Follower: 左に四角凹みで右直線 Analytic
+Leader: では、この図形は「モノリス」と呼びましょう。 Holistic
+Follower: いいですね、決まりです。 
+Leader: 柱の上に上向き三角です。 Analytic
+Follower: 中央に柱で上三角ですね Analytic
+Leader: この図形は『サボテン』でいかがでしょう。 Holistic
+Follower: 賛成です、決まりです。 
+Leader: 祈る貴婦人像に見えますか？ Holistic
+Follower: 踊る人に近い Holistic
+Leader: 王冠の人で翼が広い Holistic
+Follower: 蝶形で四方に尖るね Mixed
+Leader: 上に傾いた正方形です。 Analytic
+Follower: ありません
+Leader: 中央は台形の胴体です。 Analytic
+Follower: 下は水平で胴は台形 Analytic
+Leader: では、この図形は『祈りの天使』としましょう。 Holistic
+Follower: 賛成です。 
+Leader: 横歩きのカニに見える形です。 Mixed
+Follower: 中央に柱で四方に尖るね Analytic
+Leader: 左上は大直角三角 Analytic
+Follower: 左上大直角で一致 Analytic
+Leader: それなら、名前は「空飛ぶカニ」でどうでしょう。 Holistic
+Follower: 賛成です、決まりです。 
+Leader: 右上に尖りV字に折れる Analytic
+Follower: ありません
+Leader: 滑空するツバメの形です Holistic
+Follower: あなたの説明だと命名済みの『空飛ぶカニ』が当てはまります。間違えていたかもしれないのでやり直しませんか？ Holistic
+Leader: わかりました。『空飛ぶカニ』と命名したタングラムの命名を撤回します。 Holistic
+Follower: わかりました 
+Leader: 折り紙の鶴のようです。 Holistic
+Follower: 飛ぶ鳥でV字 Mixed
+Leader: 複雑な紋章みたいです。 Holistic
+Follower: 紋章風で四方に尖る Mixed
+Leader: 右下へ鋭い三角が伸びる。 Analytic
+Follower: 合う、右下尖り四方尖る Analytic
+Leader: 四方に尖って紋章のような雰囲気があるので、『飛翔紋章』はどうでしょう。 Mixed
+Follower: 賛成です、決まりです。 
+Leader: 鋭角の矢印みたいですか Holistic
+Follower: V字で右上尖りです Analytic
+Leader: 水面を跳ねる魚の姿です。 Holistic
+Follower: V字で右上尖り Analytic
+Leader: 横たわる人のシルエットです Holistic
+Follower: 合う、走る人に近い Holistic
+Leader: 左に水平気味の大三角 Analytic
+Follower: 左に水平大三角で一致 Analytic
+Leader: それなら、この図形は「ツバメアロー」と呼びませんか？ Holistic
+Follower: いいですね、決まりです。 

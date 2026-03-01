@@ -1,0 +1,32 @@
+Leader: 中央上に菱形を載せた座像です。 Mixed
+Follower: 上で浮く正方形の座像 Mixed
+Leader: では、この形は「座禅僧」と呼びましょう。 Holistic
+Follower: いいですね、座禅僧で。Holistic
+Leader: いまにも左へ腕を伸ばす走者です。 Holistic
+Follower: 跳躍している人ですね Holistic
+Leader: 右上に離れた正方形と片足の人だ Mixed
+Follower: 右上に浮く正方形と片足ですね Analytic
+Leader: では、名前は「片足ランナー」でいかがでしょう。 Holistic
+Follower: 片足ランナーで。Holistic
+Leader: 中央にV字の谷の白鳥ですよ Mixed
+Follower: 当てはまります。白鳥でV字の谷 Mixed
+Leader: それでは、名前は「V翼の鶴」でいかがでしょう。 Mixed
+Follower: いいですね、V翼の鶴で。Mixed
+Leader: 右肩上がりの鋭い紙飛行機です Holistic
+Follower: 斜め上を指す鋭い先端です Analytic
+Leader: 中央上に深いV字の切れ込みだよ Analytic
+Follower: 中央上の深いV字ですね Analytic
+Leader: では「グライダー」で。Holistic
+Follower: いいですね、グライダーで。Holistic
+Leader: 太い胴に左上の傾いた正方形 Analytic
+Follower: ありません
+Leader: 頂点が上を向く細長い像です。 Mixed
+Follower: 当てはまります。上向き頂点で縦長です Analytic
+Leader: では、この形は「サボテン番人」と呼びましょう。 Holistic
+Follower: いいですね、サボテン番人で。Holistic
+Leader: しなやかなS字の踊る女性です。 Mixed
+Follower: 当てはまります。緩やかなS字 Mixed
+Leader: 頂に鋭い三角、右向きの台座です。 Analytic
+Follower: 当てはまります。右向き土台と頂の鋭角 Analytic
+Leader: 『炎舞像』でどうでしょう。 Holistic
+Follower: いいですね、炎舞像で。Holistic

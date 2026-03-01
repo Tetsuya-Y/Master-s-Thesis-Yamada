@@ -1,0 +1,54 @@
+Leader: 座る僧の蝶型です。 Holistic
+Follower: 椅子に座る人 Holistic
+Leader: 卓上のティーポットです。 Holistic
+Follower: あるよ左右対称で土台 Analytic
+Leader: 胴が一番大きいよ Holistic
+Follower: 胴体最大だね Holistic
+Leader: 「禅蝶」で。 Holistic
+Follower: 賛成です
+Leader: 全力疾走の人 Holistic
+Follower: 跳躍の人 Holistic
+Leader: では、名前は『ランナー』でいきましょう。 Holistic
+Follower: 賛成です
+Leader: 水面の白鳥だよ Holistic
+Follower: 当てはまる横長 Analytic
+Leader: 折り鶴のシルエットだよ。 Holistic
+Follower: 横長の鳥だね Mixed
+Leader: 真ん中がV字だよ。 Analytic
+Follower: 中央にV字だね Analytic
+Leader: 『折鶴』で Holistic
+Follower: 賛成です
+Leader: 右上がりの矢印だよ Holistic
+Follower: ありません
+Leader: 紙飛行機が突進だよ。 Holistic
+Follower: 低空飛行だね Holistic
+Leader: 左下が鋭角だよ Analytic
+Follower: ありません
+Leader: 上部に深いV字だよ Analytic
+Follower: あなたの説明だと命名済みの『ランナー』が当てはまります。間違えていたかもしれないのでやり直しませんか？ Holistic
+Leader: わかりました。『ランナー』と命名したタングラムの命名を撤回します。 Holistic
+Follower: わかりました 
+Leader: 片足で踊る人 Holistic
+Follower: 一本の足だね Holistic
+Leader: では、勢いよく前へ進む印象から、『疾走』と名付けませんか。 Holistic
+Follower: 賛成です
+Leader: 高速機のシルエットです。 Holistic
+Follower: 右上がり矢印だね Holistic
+Leader: 滑空する鳥だよ Holistic
+Follower: 滑空の矢印 Holistic
+Leader: 水面で跳ねる大魚 Holistic
+Follower: 右上がり矢印 Holistic
+Leader: 左長辺で右縦 Analytic
+Follower: 右縦で左長辺 Analytic
+Leader: それでは、名前は『滑翔』でいきましょう。 Holistic
+Follower: 賛成です
+Leader: 胴太め直立です。 Holistic
+Follower: 上尖り縦長 Analytic
+Leader: では、名前は『番人』でどうでしょう。 Holistic
+Follower: 賛成です
+Leader: 祈る人が炎のよう Holistic
+Follower: 右上がり矢印 Holistic
+Leader: 右上がりの長い斜辺 Analytic
+Follower: 右上がり矢印 Holistic
+Leader: では、名前は『舞姫』でいきましょう。 Holistic
+Follower: 賛成です

@@ -1,0 +1,28 @@
+Leader: 左右対称で土台が太い形です。 Analytic
+Follower: 左右対称で台形の土台です Analytic
+Leader: では、『座禅』でいきましょう。 Holistic
+Follower: いいですね、座禅で決定です。 Holistic
+Leader: 右上に離れた正方形がある走る人。 Mixed
+Follower: 走る人で右上尖り一致です Mixed
+Leader: では、名前は『ランナー』でいきましょう。 Holistic
+Follower: いいですね、ランナーで。Holistic
+Leader: 横長で中央に深いV字の鳥です。 Mixed
+Follower: 横長で中央V字の鳥一致です Mixed
+Leader: では、名前は『スワン』でいきましょう。 Holistic
+Follower: いいですね、スワンで。Holistic
+Leader: 左下が鋭い矢印の機体。 Analytic
+Follower: 低空飛行の機体一致です Holistic
+Leader: 中央上部に深いV字の切れ込みです Analytic
+Follower: ありません
+Leader: 右肩上がりで紙飛行機みたいな形です。 Mixed
+Follower: 右上がりで低空飛行一致です Analytic
+Leader: では、名前は『ハヤブサ』でどうでしょう。 Holistic
+Follower: いいですね、ハヤブサで。Holistic
+Leader: 太い縦長の胴で右が膨らむサボテン。 Analytic
+Follower: 縦長で右ふくらみ一致です Analytic
+Leader: 『サボテン』で。Holistic
+Follower: いいですね、サボテンで。Holistic
+Leader: 緩やかなS字で祈る人の像です。 Mixed
+Follower: 緩やかなS字で祈る人一致です Mixed
+Leader: 『フェニックス』で。Holistic
+Follower: いいですね、フェニックスで。Holistic

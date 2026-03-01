@@ -1,0 +1,78 @@
+Leader: 宙返り舞。 Holistic
+Follower: 合うよ、踊る人。 Holistic
+Leader: それなら、名前は「イルカ」でどう？ Holistic
+Follower: 賛成！ 
+Leader: 記念碑かな。 Holistic
+Follower: 縦長台座 Analytic
+Leader: 片耳犬だね。 Holistic
+Follower: 右尖り Analytic
+Leader: 杖の老人。 Holistic
+Follower: 縦柱 Analytic
+Leader: 左に凹み。 Analytic
+Follower: 合う左凹み Analytic
+Leader: じゃあ、名前は「ワンミミ」でどう？ Holistic
+Follower: 賛成！ 
+Leader: サボテンかな。 Holistic
+Follower: 柱だね Holistic
+Leader: 松明だね。 Holistic
+Follower: 合う縦柱 Analytic
+Leader: 万歳の人？ Holistic
+Follower: V字だね Analytic
+Leader: 鍵形かな。 Holistic
+Follower: 右突三角 Analytic
+Leader: 左に台座 Analytic
+Follower: 合う左土台 Analytic
+Leader: 『バンザイ』で Holistic
+Follower: 賛成！ 
+Leader: 天使像かな Holistic
+Follower: 翼だね Holistic
+Leader: 王冠の人？ Holistic
+Follower: 指す人 Holistic
+Leader: 貴婦人だね Holistic
+Follower: 指す人 Holistic
+Leader: 右突三角。 Analytic
+Follower: 合う右突三角 Analytic
+Leader: それなら、名前は「祈り」でどう？ Holistic
+Follower: 賛成！ 
+Leader: 手裏剣かな。 Holistic
+Follower: ありません
+Leader: 横歩き蟹？ Holistic
+Follower: あなたの説明だと命名済みの『イルカ』が当てはまります。間違えていたかもしれないのでやり直しませんか？ Holistic
+Leader: わかりました。『イルカ』と命名したタングラムの命名を撤回します。 Holistic
+Follower: わかりました 
+Leader: S字胴 Analytic
+Follower: 合うS字胴 Analytic
+Leader: 『宙舞』で Holistic
+Follower: 賛成
+Leader: 折鶴だね。 Holistic
+Follower: 飛ぶ鳥 Holistic
+Leader: 紋章だね。 Holistic
+Follower: 合う風車 Holistic
+Leader: 下尖り Analytic
+Follower: 合う下小三角 Analytic
+Leader: カニみたい。 Holistic
+Follower: 合うヒトデ Holistic
+Leader: 右下とがり？ Analytic
+Follower: 合う左下尖 Analytic
+Leader: ドローンかな Holistic
+Follower: 風車だね Holistic
+Leader: 刃群紋かな。 Holistic
+Follower: 合う風車 Holistic
+Leader: トゲ多めだね。 Holistic
+Follower: 合うヒトデ Holistic
+Leader: 縦柱かな Mixed
+Follower: 合う柱 Analytic
+Leader: では、名前は『カニ』でどう？ Holistic
+Follower: 賛成！ 
+Leader: ツバメ型 Holistic
+Follower: 飛ぶ鳥 Holistic
+Leader: ブーメランかな Holistic
+Follower: 合うV字 Analytic
+Leader: 矢印かな Holistic
+Follower: 合うV字 Analytic
+Leader: 跳ねる魚。 Holistic
+Follower: 飛ぶ鳥 Holistic
+Leader: 右上尖り。 Analytic
+Follower: 合う右上尖 Analytic
+Leader: この図形は『ツバメ』でどう？ Holistic
+Follower: 賛成！ 

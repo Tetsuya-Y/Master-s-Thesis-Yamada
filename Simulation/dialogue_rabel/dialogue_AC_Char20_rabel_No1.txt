@@ -1,0 +1,26 @@
+Leader: 平らな底で横長、右に三角の頭 Analytic
+Follower: 底辺が平らで横長右に首 Analytic
+Leader: 『スワンボート』で。Holistic
+Follower: いいですね、スワンボートで。Holistic
+Leader: 中央がくびれたX字の風車 Mixed
+Follower: 手裏剣の形のX字だね Holistic
+Leader: リボンみたいで四方の角が尖る Analytic
+Follower: 手裏剣で四方に角だね Mixed
+Leader: それなら『手裏剣』でどう？ Holistic
+Follower: 賛成、手裏剣で。Holistic
+Leader: 柱が太めで縦細長く、頂が尖る Analytic
+Follower: 柱が太く頂が尖るね Analytic
+Leader: 『ロケット』で。Holistic
+Follower: いいですね、ロケットで。Holistic
+Leader: 左に四角が突出し、右は直線で積む。 Analytic
+Follower: 左四角突出で右直線 Analytic
+Leader: それでは、この図形は『祈りの像』でいかがでしょう。 Holistic
+Follower: 賛成です、祈りの像で。Holistic
+Leader: 斜め右傾きで走る人の影だね。 Mixed
+Follower: 右傾きで蹴りと腕 Analytic
+Leader: 『疾走』で。Holistic
+Follower: 賛成です、疾走で。Holistic
+Leader: 右上に傾く四角の頭と尾三角かな？ Analytic
+Follower: 右上傾く正方と尾三角だね Analytic
+Leader: では、この図形は「跳ねウサギ」でいかがでしょう。 Holistic
+Follower: 賛成です、跳ねウサギで。Holistic

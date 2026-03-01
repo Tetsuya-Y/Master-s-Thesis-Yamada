@@ -1,0 +1,48 @@
+Leader: S字の舞だね Holistic
+Follower: あるよS字 Holistic
+Leader: では、名前は『アクロ』でいきましょう。 Holistic
+Follower: いいね
+Leader: ビル群かな Holistic
+Follower: 柱と台だ Analytic
+Leader: 片耳犬かな Holistic
+Follower: 座るリス Holistic
+Leader: 杖老人かな Holistic
+Follower: 柱が杖 Analytic
+Leader: 記念碑っぽいし、『モノリス』でどう？ Holistic
+Follower: 賛成
+Leader: サボテンだ Holistic
+Follower: 柱とトゲ Analytic
+Leader: じゃあ、名前は『サボテン』でどう？ Holistic
+Follower: 賛成
+Leader: 祈る天使 Holistic
+Follower: 左に翼 Analytic
+Leader: 貴婦人像かな Holistic
+Follower: 細身台 Holistic
+Leader: 王冠像 Holistic
+Follower: 台座柱 Analytic
+Leader: 斜め四角？ Analytic
+Follower: 角で接す Holistic
+Leader: では、名前は『天使』でいきましょう。 Holistic
+Follower: 賛成
+Leader: 横歩きの蟹 Holistic
+Follower: 横V字だ Analytic
+Leader: 紋章風だ Holistic
+Follower: V字だ Analytic
+Leader: 手裏剣かも Holistic
+Follower: あるよブーメラン Holistic
+Leader: 折り鶴かな Holistic
+Follower: 飛ぶ鳥 Holistic
+Leader: ドローンかな Holistic
+Follower: 飛ぶ鳥 Holistic
+Leader: 縦柱あるね Analytic
+Follower: 柱だ Analytic
+Leader: 『カニ』で Holistic
+Follower: 賛成
+Leader: 跳ね魚かな Holistic
+Follower: V字だ Analytic
+Leader: 鋭い矢印？ Holistic
+Follower: あるよ紙飛行機 Holistic
+Leader: ブーメラン？ Holistic
+Follower: あるよブーメラン Holistic
+Leader: じゃあ、名前は『ツバメ』でどう？ Holistic
+Follower: 賛成

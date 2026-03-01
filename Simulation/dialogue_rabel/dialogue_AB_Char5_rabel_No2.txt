@@ -1,0 +1,44 @@
+Leader: 座禅僧 Holistic
+Follower: 左右対称 Analytic
+Leader: 蝶みたい Holistic
+Follower: 左右対称 Analytic
+Leader: 急須型かな Holistic
+Follower: 右ふくらみ Analytic
+Leader: 角上の四角 Analytic
+Follower: 角向い四角 Analytic
+Leader: 『抱擁』で Holistic
+Follower: 賛成です
+Leader: 走る人です Holistic
+Follower: あるよ 跳躍の人 Holistic
+Leader: 『疾走』で Holistic
+Follower: 賛成
+Leader: 白鳥かな Holistic
+Follower: 白鳥ある Holistic
+Leader: では、この図形は『鶴』でどうでしょう。 Holistic
+Follower: いいね
+Leader: 右矢印型 Holistic
+Follower: ありません
+Leader: 紙飛行機かな Holistic
+Follower: 左右対称 Analytic
+Leader: 滑空の鳥 Holistic
+Follower: 左右対称 Analytic
+Leader: V字溝だね Analytic
+Follower: ありません
+Leader: 左下尖り Analytic
+Follower: あるよ 左下指し Analytic
+Leader: では、名前は『疾風』でいかがでしょう。 Holistic
+Follower: 賛成
+Leader: 高いサボテン Holistic
+Follower: あるよ 縦長で上尖 Analytic
+Leader: それなら、名前は「サボテン」でどうでしょう。 Holistic
+Follower: 賛成
+Leader: 踊り子かな Holistic
+Follower: ありません
+Leader: 祈る人 Holistic
+Follower: 椅子座り Holistic
+Leader: 炎の像かな Holistic
+Follower: あるよS字形 Holistic
+Leader: 飛び立つ鳥かな Holistic
+Follower: 泳ぐ鳥 Holistic
+Leader: しなやかなS字に見えるので「舞」で。 Holistic
+Follower: 賛成

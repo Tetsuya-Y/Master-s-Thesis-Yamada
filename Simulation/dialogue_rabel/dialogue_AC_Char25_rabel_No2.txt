@@ -1,0 +1,46 @@
+Leader: 水に浮かぶ折り紙の鳥、右に三角の頭 Mixed
+Follower: 折り紙の鳥で底が平ら、右に三角の頭。 Mixed
+Leader: それなら、『折り鶴』でいかがでしょう。 Holistic
+Follower: 賛成です。折り鶴にしましょう。 Holistic
+Leader: X字型で中央がくびれた風車ですか Mixed
+Follower: X字で中央に平行四辺形 Analytic
+Leader: 手裏剣みたいで四方に角が出ていますか Mixed
+Follower: はい、手裏剣で四方に角が出ます Mixed
+Leader: それなら、『手裏剣』でどうでしょう。 Holistic
+Follower: 賛成です。手裏剣でいきましょう。 Holistic
+Leader: 縦長で柱太く先が尖るトーテム風 Mixed
+Follower: 柱が太く頂点が鋭く下部が広いです Analytic
+Leader: 『ロケット』で。Holistic
+Follower: 賛成です。ロケットでいきましょう。 Holistic
+Leader: 右向きの横顔で座り祈る人で右辺直線 Mixed
+Follower: ありません
+Leader: 縦長に積み木が重なり上に右向き三角か Analytic
+Follower: あなたの説明だと命名済みの『ロケット』が当てはまります。間違えていたかもしれないのでやり直しませんか？ Holistic
+Leader: わかりました。『ロケット』と命名したタングラムの命名を撤回します。 Holistic
+Follower: わかりました
+Leader: 左下に平行四辺形、右に小さな三角 Analytic
+Follower: 当てはまります。左下平行四辺形、右に小三角。 Analytic
+Leader: この図形は『サボテン』でいきませんか？ Holistic
+Follower: 賛成です。サボテンでいきましょう。 Holistic
+Leader: 左に傾く正方形が出た記念碑みたいなのある？ Mixed
+Follower: 当てはまります。傾いた正方形があります。 Analytic
+Leader: 『祈る人』でどうでしょう。 Holistic
+Follower: 賛成です。祈る人にしましょう。 Holistic
+Leader: 右上に正方形の頭で右傾き走る人 Mixed
+Follower: 当てはまります。右上正方形で右傾き。 Analytic
+Leader: 『ランナー』で。Holistic
+Follower: 賛成です。ランナーでいきましょう。 Holistic
+Leader: 弓なりに反った胴で尻尾三角の影絵のキツネ Mixed
+Follower: ありません
+Leader: 右上に傾く四角の頭で胴が太い踊る人 Mixed
+Follower: あなたの説明だと命名済みの『祈る人』が当てはまります。間違えていたかもしれないのでやり直しませんか？ Holistic
+Leader: わかりました。『祈る人』と命名したタングラムの命名を撤回します。 Holistic
+Follower: わかりました
+Leader: 右向きの横顔で右側が直線の像ですか Mixed
+Follower: 当てはまります。右側直線で左に四角。 Analytic
+Leader: それなら、『祈りの像』はどうでしょう。 Holistic
+Follower: 賛成です。祈りの像でいきましょう。 Holistic
+Leader: 弓なりに反り中央が太い跳ねるウサギ Mixed
+Follower: 当てはまります。弓なりで中央が太いです Analytic
+Leader: 弓なりの『跳ねウサギ』でどうでしょう。 Holistic
+Follower: 賛成です。跳ねウサギにしましょう。 Holistic
