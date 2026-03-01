@@ -1,0 +1,341 @@
+=== Session 14 (MaxChar=25) ===
+Date: 2026-01-27T21:38:04.999426
+
+[System] 🚀 Started Session 14. Max Char = 25
+[System] --- Turn 1 ---
+[Leader] 🎯 Target Selected: A3
+[Leader] 🧠 Thought: ターゲットA3の要点を25文字前後で自然に伝える必要がある。過去履歴は空なので制約なし。A3の代表的な印象を短く示しつつ、位置と形の分析的特徴を1点入れる。文字数はひらがな換算で24〜26を狙い、自然な発話とする。
+[Leader] 📐 Strategy: Description | Type: Mixed
+[Leader]    [Analytic]: ['右に三角の頭']
+[Leader]    [Holistic]: ['水に浮かぶ折り紙の鳥']
+[System] 🗣️ Leader: 水に浮かぶ折り紙の鳥、右に三角の頭
+[Follower] 🤔 Thought: 発話は「折り紙の鳥」「水に浮かぶ」「右に三角の頭」という全体印象と方位の示唆。A3は特徴に折り紙の鳥、底辺が平ら、右側に首（頭）という整合が高く最有力。A2は水生的な印象はあるが鳥ではなくX構成で頭の明示性が弱い。C1は鳥の印象は取り得るが水上感や底辺の平らさが弱い。C2は水中の生物的で曲線的印象が強く鳥からは外れる。A1とC3は記述と乖離。よってA3を高確率、他は低めに分配。命名済みは無しのためPAは空。
+[Follower] 📐 Strategy: Type:Mixed
+[Follower]    [Analytic]: ['底が平ら', '右に三角の頭']
+[Follower]    [Holistic]: ['折り紙の鳥']
+[Follower] 📊 PN (Unnamed): {A3:0.82, A2:0.06, C1:0.06, C2:0.03, C3:0.02, A1:0.01}
+[System] 🗣️ Follower: 折り紙の鳥で底が平ら、右に三角の頭。
+[System] 📏 Similarity: 0.873
+[System] ✨ High Similarity Detected. Switching to NAMING PHASE.
+[System] --- Turn 2 ---
+[Leader] 🧠 Thought: 水に浮かぶ折り紙の鳥の連想から、短く覚えやすい和名を選んだ。
+[Leader] 📐 Strategy: Naming_Proposal | Type: Holistic
+[Leader]    [Holistic]: ['折り鶴']
+[Leader] 💡 Proposing Name: 折り鶴
+[System] 🗣️ Leader: それなら、『折り鶴』でいかがでしょう。
+[Follower] 🤔 Thought: Leaderの提案に同意し、短く自然な賛同表現で受諾しました。新たな特徴表現は追加していません。
+[Follower] 📐 Strategy: Type:None
+[Follower] 📊 PN (Unnamed): {positive:0.95, neutral:0.05, negative:0.00}
+[Follower] 🤝 Accepted Name: 折り鶴
+[System] 🗣️ Follower: 賛成です。折り鶴にしましょう。
+[System] ✅ Naming Agreement Reached: 折り鶴
+[System] --- Turn 3 ---
+[Leader] ✅ Naming Completed: ID=A3, Name=折り鶴
+[Leader] 🎯 Target Selected: C3
+[Leader] 🧠 Thought: 過去の会話はA3の折り鶴に関する記述のみ。C3の特徴から、回転差に強い「X字型」「中央がくびれた」と、全体印象の「風車」を組み合わせ、25文字条件を満たす短文を作成。
+[Leader] 📐 Strategy: Description | Type: Mixed
+[Leader]    [Analytic]: ['X字型', '中央がくびれた']
+[Leader]    [Holistic]: ['風車']
+[System] 🗣️ Leader: X字型で中央がくびれた風車ですか
+[Follower] 🤔 Thought: 発話は「X字型で中央がくびれた風車」。X字という全体構成が明示され、A2には「図形全体がX字のような構成」「中央に大きな平行四辺形」があり、中央の“くびれ”印象とも一致。C3も「四方に角が突き出している」「手裏剣」などX的だが“中央くびれ”の明示性は弱い。よってA2を最有力、C3次点。他候補A1・C1・C2は縦積み・柱太い・弓なりでXに反するため低く設定。命名済みA3はM型・平底でXやくびれに合致せず低確率。
+[Follower] 📐 Strategy: Type:Mixed
+[Follower]    [Analytic]: ['中央に平行四辺形']
+[Follower]    [Holistic]: ['X字']
+[Follower] 📊 PN (Unnamed): {A2:0.60, C3:0.35, A1:0.02, C1:0.02, C2:0.01}
+[Follower] 🛡️ PA (Named - Matching?): {A3:0.05}
+[System] 🗣️ Follower: X字で中央に平行四辺形
+[System] 📏 Similarity: 0.389
+[System] --- Turn 4 ---
+[Leader] 🧠 Thought: 過去に出たX字型や風車、中央の情報を避け、別の全体印象と未言及の形状特徴で短く確認する。
+[Leader] 📐 Strategy: Description | Type: Mixed
+[Leader]    [Analytic]: ['四方に角が出ています']
+[Leader]    [Holistic]: ['手裏剣みたい']
+[System] 🗣️ Leader: 手裏剣みたいで四方に角が出ていますか
+[Follower] 🤔 Thought: 相手の発話は「手裏剣みたい」「四方に角が出ている」という全体的印象と幾何的特徴を含む。未命名の中でC3が「手裏剣の形」「四方に角が突き出している」と一致し最有力。前段のX字・中央平行四辺形の言及はA2の特徴だが、今回の手裏剣という表現はC3に特異的なためA2は低確率に留めた。C1,C2,A1はいずれも該当特徴を持たない。命名済みA3（折り紙の鳥）は底が平ら・M状・鳥などで手裏剣的ではないため当てはまりは極めて低い。回転差は考慮してもC3の特徴は回転不変な角の配置で説明できるため高確度とした。
+[Follower] 📐 Strategy: Type:Mixed
+[Follower]    [Analytic]: ['四方に角が出ます']
+[Follower]    [Holistic]: ['手裏剣']
+[Follower] 📊 PN (Unnamed): {C3:0.98, A2:0.02, A1:0.00, C1:0.00, C2:0.00}
+[Follower] 🛡️ PA (Named - Matching?): {A3:0.02}
+[System] 🗣️ Follower: はい、手裏剣で四方に角が出ます
+[System] 📏 Similarity: 0.962
+[System] ✨ High Similarity Detected. Switching to NAMING PHASE.
+[System] --- Turn 5 ---
+[Leader] 🧠 Thought: X字で四方に角が出る印象に沿って、短く覚えやすい名を選定。
+[Leader] 📐 Strategy: Naming_Proposal | Type: Holistic
+[Leader]    [Holistic]: ['手裏剣']
+[Leader] 💡 Proposing Name: 手裏剣
+[System] 🗣️ Leader: それなら、『手裏剣』でどうでしょう。
+[Follower] 🤔 Thought: 提案に同意し、簡潔に賛意のみを返答。特徴表現は加えない。
+[Follower] 📐 Strategy: Type:None
+[Follower] 📊 PN (Unnamed): {positive:0.98, negative:0.02}
+[Follower] 🛡️ PA (Named - Matching?): {A3:0.00}
+[Follower] 🤝 Accepted Name: 手裏剣
+[System] 🗣️ Follower: 賛成です。手裏剣でいきましょう。
+[System] ✅ Naming Agreement Reached: 手裏剣
+[System] --- Turn 6 ---
+[Leader] ✅ Naming Completed: ID=C3, Name=手裏剣
+[Leader] 🎯 Target Selected: C1
+[Leader] 🧠 Thought: C1の未提示要素から、短く自然な発話で縦長・柱状・先端の鋭さとトーテムの印象を選択。既出の鳥やX字の特徴は避けた。
+[Leader] 📐 Strategy: ターゲットC1の形状と印象を25文字程度に圧縮し、回転差に依存しないキーフィーチャーを提示。 | Type: Mixed
+[Leader]    [Analytic]: ['縦長で', '柱太く', '先が尖る']
+[Leader]    [Holistic]: ['トーテム風']
+[System] 🗣️ Leader: 縦長で柱太く先が尖るトーテム風
+[Follower] 🤔 Thought: 発話は縦長・柱が太い・先が尖る・トーテム風。C1は「中央が柱のように太い」「頂点が鋭く尖っている」「下部の幅が広い」が強く一致。A1は「全体が縦長に積み重なっている」「一番下の三角形が台座のよう」でトーテム風に合致するため高め。A2はX字で傾斜、C2は弓なりで曲線的であり不一致。命名済みのA3(M字/猫)やC3(手裏剣)は縦長の柱状・尖頂・下部広いに当てはまらず低く設定。
+[Follower] 📐 Strategy: Type:Analytic
+[Follower]    [Analytic]: ['柱が太く', '頂点が鋭く', '下部が広い']
+[Follower] 📊 PN (Unnamed): {A1:0.55, C1:0.40, A2:0.03, C2:0.02}
+[Follower] 🛡️ PA (Named - Matching?): {A3:0.05, C3:0.01}
+[System] 🗣️ Follower: 柱が太く頂点が鋭く下部が広いです
+[System] 📏 Similarity: 0.603
+[System] ✨ High Similarity Detected. Switching to NAMING PHASE.
+[System] --- Turn 7 ---
+[Leader] 🧠 Thought: 縦長で先端が尖り、側面に小さな突起がある印象から、直感的で覚えやすい「ロケット」を選択。過去の命名と重複しない短い名称にした。
+[Leader] 📐 Strategy: Naming_Proposal | Type: Holistic
+[Leader]    [Holistic]: ['ロケット']
+[Leader] 💡 Proposing Name: ロケット
+[System] 🗣️ Leader: 『ロケット』で。
+[Follower] 🤔 Thought: 提案名に同意し、短く自然な合意表現を返答しました。
+[Follower] 📐 Strategy: Type:None
+[Follower] 📊 PN (Unnamed): {positive:0.98, neutral:0.02, negative:0.00}
+[Follower] 🛡️ PA (Named - Matching?): {A3:0.00, C3:0.00}
+[Follower] 🤝 Accepted Name: ロケット
+[System] 🗣️ Follower: 賛成です。ロケットでいきましょう。
+[System] ✅ Naming Agreement Reached: ロケット
+[System] ⚠️ Misunderstanding! Leader named C1, but Follower named A1.
+[System] --- Turn 8 ---
+[Leader] ✅ Naming Completed: ID=C1, Name=ロケット
+[Leader] 🎯 Target Selected: A1
+[Leader] 🧠 Thought: 対象はA1。直前の命名対話はC1(ロケット)で、縦長・尖頂・太い柱などは避ける。A1の人型・右向き横顔・座って祈る印象と、右辺直線という幾何特徴を織り交ぜ、25±3文字に収める。
+[Leader] 📐 Strategy: 人の姿の全体印象を主に、補助で右辺直線という分析的特徴を一つだけ加える。回転差は「右向き」の表現で方向性を示しつつも、全体像で伝わるようにする。 | Type: Mixed
+[Leader]    [Analytic]: ['右辺直線']
+[Leader]    [Holistic]: ['右向きの横顔', '座り祈る人']
+[System] 🗣️ Leader: 右向きの横顔で座り祈る人で右辺直線
+[System] ⚠️ Follower says 'Arimasen'.
+[System] ⚠️ No match count: 1/2
+[Follower] 🤔 Thought: 発話のキーは「右向きの横顔」「座り祈る人」「右辺直線」。未命名候補A2はX字で右下が蹴る・左上が腕といった人型要素はあるが右辺直線の明示なし。C1は人型にも見えるが右側に小三角形が出ており右辺直線の条件に反する可能性が高い。C2は弓なり・背中が滑らかで人魚/イルカ系で、座り祈る人や右辺直線と乖離。回転を考慮しても「右辺直線」を強く満たすのは命名済みのA1（右側のラインが直線的）が典型で、今回の説明にもっとも合致。よって未命名には合致なしとして一様に低め、命名済みではA1を高、A3は座る・右首垂直など一部連想で中、C3は手裏剣で人像に遠く低とした。
+[Follower] 📐 Strategy: Type:None
+[Follower] 📊 PN (Unnamed): {A2:0.34, C1:0.33, C2:0.33}
+[Follower] 🛡️ PA (Named - Matching?): {A1:0.85, A3:0.40, C3:0.10}
+[System] 🗣️ Follower: ありません
+[System] ⏳ Follower rejected. Skipping similarity check.
+[System] --- Turn 9 ---
+[Leader] 🧠 Thought: A1のうち、前回伝えた「横顔・座る祈る人・右辺直線」を避け、未提示の分析的特徴を短く提示。25±3文字の条件を満たすよう語数調整。
+[Leader] 📐 Strategy: Description | Type: Analytic
+[Leader]    [Analytic]: ['縦長に積み木が重なり', '上に右向き三角']
+[System] 🗣️ Leader: 縦長に積み木が重なり上に右向き三角か
+[System] ⚠️ Follower says 'Arimasen'.
+[System] ⚠️ No match count: 2/2
+[System] 🗣️ Follower (Auto-Revoke): あなたの説明だと命名済みの『ロケット』が当てはまります。間違えていたかもしれないのでやり直しませんか？
+[System] 🗣️ Leader (Auto-Revoke): わかりました。『ロケット』と命名したタングラムの命名を撤回します。
+[System] 🗣️ Follower (Auto-Revoke): わかりました
+[Follower] 🤔 Thought: 今回の発話は「縦長に積み木が重なり」「上に右向き三角」という幾何的・部分的特徴（Analytic）に依拠している。未命名候補C1は縦長かつ中央が柱状で下部が広いが「上に右向き三角」や積み木状の段積みとは一致しにくい。A2はX字で傾きがあり、積層構造ではない。C2は弓なりで曲線的印象が強く、縦長の積み重ねとも違う。回転を考慮しても「上に右向き三角」「積み木のように縦に重なる」の両立は未命名群では弱く、合致なしと判断。逆に命名済みのA1は「全体が縦長に積み重なっている」「右側のラインが直線的」「上の方に小三角形」などが強く一致しうるため高確率。A3とC3は山形/星形で今回の縦積み＋方向性のある先端三角とは乖離が大きい。
+[Follower] 📐 Strategy: Type:None
+[Follower] 📊 PN (Unnamed): {A2:0.34, C1:0.33, C2:0.33}
+[Follower] 🛡️ PA (Named - Matching?): {A1:0.90, A3:0.05, C3:0.05}
+[System] 🔄 Revoke Accepted for 'ロケット'. Resetting target.
+[System] --- Turn 10 ---
+[Leader] 🔄 Revoked Name: 'ロケット' (ID: C1). Returned to candidates.
+[Leader] 🎯 Target Selected: C1
+[Leader] 🧠 Thought: 過去に伝えた縦長や尖った頂点などは避け、未提示の左右の付属形状に焦点を当てて短く明確に伝える。
+[Leader] 📐 Strategy: Description | Type: Analytic
+[Leader]    [Analytic]: ['左下に平行四辺形', '右に小さな三角']
+[System] 🗣️ Leader: 左下に平行四辺形、右に小さな三角
+[Follower] 🤔 Thought: 相手の説明は「左下に平行四辺形」「右に小さな三角」という明確な部位指定。未命名では右側に小三角の特徴が明示のものがC1で強合致。C1は右側に小さな三角が付き、構成上左下に平行四辺形が配置されうるため最有力。A2は中央に大きな平行四辺形で位置がずれるが、回転や視点次第で右側三角の印象は近く部分一致として次点。C2は右上に傾いた正方形で右小三角とは異なり弱い。A1は左に四角突出や右辺直線で不一致。命名済みではC3が回転で左下に平行四辺形となり得て、右側に三角もあるため中程度に当てはまり得る。一方A3は該当特徴が乏しく低評価。
+[Follower] 📐 Strategy: Type:Analytic
+[Follower]    [Analytic]: ['左下平行四辺形', '右に小三角']
+[Follower] 📊 PN (Unnamed): {C1:0.70, A2:0.20, C2:0.10, A1:0.00}
+[Follower] 🛡️ PA (Named - Matching?): {C3:0.40, A3:0.05}
+[System] 🗣️ Follower: 当てはまります。左下平行四辺形、右に小三角。
+[System] 📏 Similarity: 0.949
+[System] ✨ High Similarity Detected. Switching to NAMING PHASE.
+[System] --- Turn 11 ---
+[Leader] 🧠 Thought: 縦に細長く、左下の張り出しと右の小さな突起がサボテンの腕のように見えるため、短く覚えやすい名前として提案する。
+[Leader] 📐 Strategy: Naming_Proposal | Type: Holistic
+[Leader]    [Holistic]: ['サボテン']
+[Leader] 💡 Proposing Name: サボテン
+[System] 🗣️ Leader: この図形は『サボテン』でいきませんか？
+[Follower] 🤔 Thought: 提案名に同意し、短く了承を表明。
+[Follower] 📐 Strategy: Type:None
+[Follower] 📊 PN (Unnamed): {positive:0.99, negative:0.01}
+[Follower] 🛡️ PA (Named - Matching?): {A3:0.00, C3:0.00}
+[Follower] 🤝 Accepted Name: サボテン
+[System] 🗣️ Follower: 賛成です。サボテンでいきましょう。
+[System] ✅ Naming Agreement Reached: サボテン
+[System] --- Turn 12 ---
+[Leader] ✅ Naming Completed: ID=C1, Name=サボテン
+[Leader] 🎯 Target Selected: A1
+[Leader] 🧠 Thought: A1を特定するため、これまでに挙げたA1関連特徴（右向きの横顔、座って祈る、右辺直線、縦長積み重なり、上部右向き三角）は避け、未使用の特徴である「中央左に傾いた正方形の突出」と「モニュメント的印象」を短く盛り込んだ。文字数はひらがな換算で約28文字に収めた。
+[Leader] 📐 Strategy: Description | Type: Mixed
+[Leader]    [Analytic]: ['左に傾く正方形が出た']
+[Leader]    [Holistic]: ['記念碑みたい']
+[System] 🗣️ Leader: 左に傾く正方形が出た記念碑みたいなのある？
+[Follower] 🤔 Thought: 発話は「左に傾く正方形」「記念碑みたい」。傾いた正方形はC2の「正方形が傾いている」と強く一致。記念碑的な縦長感はA1の「全体が縦長に積み重なっている」と合うためA1も中程度。A2はX字で傾きや傾いた正方形の記述がなく低め。回転によりC2の右上の傾いた正方形が左に見える可能性を考慮してC2を最有力に。命名済みではC1が柱状で記念碑に見えうるが傾いた正方形がないため低〜中程度、他2つは一致点が乏しく低く設定。
+[Follower] 📐 Strategy: Type:Analytic
+[Follower]    [Analytic]: ['傾いた正方形']
+[Follower] 📊 PN (Unnamed): {C2:0.55, A1:0.40, A2:0.05}
+[Follower] 🛡️ PA (Named - Matching?): {C1:0.15, A3:0.05, C3:0.05}
+[System] 🗣️ Follower: 当てはまります。傾いた正方形があります。
+[System] 📏 Similarity: 0.588
+[System] ✨ High Similarity Detected. Switching to NAMING PHASE.
+[System] --- Turn 13 ---
+[Leader] 🧠 Thought: 既出の名前を避けつつ、全体印象に基づく短く覚えやすい名称を選んだ。
+[Leader] 📐 Strategy: Naming_Proposal | Type: Holistic
+[Leader]    [Holistic]: ['祈る人']
+[Leader] 💡 Proposing Name: 祈る人
+[System] 🗣️ Leader: 『祈る人』でどうでしょう。
+[Follower] 🤔 Thought: 提案名に異論がないため合意する返答を短く作成した。
+[Follower] 📐 Strategy: Type:None
+[Follower] 📊 PN (Unnamed): {}
+[Follower] 🛡️ PA (Named - Matching?): {A3:0.00, C3:0.00, C1:0.00}
+[Follower] 🤝 Accepted Name: 祈る人
+[System] 🗣️ Follower: 賛成です。祈る人にしましょう。
+[System] ✅ Naming Agreement Reached: 祈る人
+[System] ⚠️ Misunderstanding! Leader named A1, but Follower named C2.
+[System] --- Turn 14 ---
+[Leader] ✅ Naming Completed: ID=A1, Name=祈る人
+[Leader] 🎯 Target Selected: A2
+[Leader] 🧠 Thought: 未説明のA2候補を識別するため、頭部位置・全体の傾き・人物の動作を短く組み合わせた。
+[Leader] 📐 Strategy: 右上の正方形頭と右傾き、走る人という印象で特徴を凝縮して伝える。 | Type: Mixed
+[Leader]    [Analytic]: ['右上に正方形の頭', '右傾き']
+[Leader]    [Holistic]: ['走る人']
+[System] 🗣️ Leader: 右上に正方形の頭で右傾き走る人
+[Follower] 🤔 Thought: 発話は「右上に正方形の頭」「右傾き」「走る人」。未命名ではA2が全体右傾き、X字構成で右下三角が蹴る動きに見え、走る人の印象に強く合致。正方形の位置は回転で右上に来うるため許容。A1は縦長で右直線・左に四角突出・台座などで走る印象に乏しく低確率。命名済みではC3が「走る人影」「右上に平行四辺形」で印象が近く誤認の恐れが高い。C2は「右上の正方形が傾いている」「弓なり」で右上正方形点が一致しやすく中程度。C1は柱状で動きの印象が弱く低め。A3は底辺平ら・猫/鳥系でさらに低い。
+[Follower] 📐 Strategy: Type:Analytic
+[Follower]    [Analytic]: ['右上正方形', '右傾き']
+[Follower] 📊 PN (Unnamed): {A2:0.90, A1:0.10}
+[Follower] 🛡️ PA (Named - Matching?): {C3:0.60, C2:0.50, C1:0.15, A3:0.10}
+[System] 🗣️ Follower: 当てはまります。右上正方形で右傾き。
+[System] 📏 Similarity: 0.837
+[System] ✨ High Similarity Detected. Switching to NAMING PHASE.
+[System] --- Turn 15 ---
+[Leader] 🧠 Thought: 走っている人の印象が強いので、短く覚えやすい名称としてカタカナの「ランナー」を提案する。
+[Leader] 📐 Strategy: Naming_Proposal | Type: Holistic
+[Leader]    [Holistic]: ['ランナー']
+[Leader] 💡 Proposing Name: ランナー
+[System] 🗣️ Leader: 『ランナー』で。
+[Follower] 🤔 Thought: 提案名に問題がないため承認しました。
+[Follower] 📐 Strategy: Type:None
+[Follower] 📊 PN (Unnamed): {}
+[Follower] 🛡️ PA (Named - Matching?): {A3:0.00, C3:0.00, C1:0.00, C2:0.00}
+[Follower] 🤝 Accepted Name: ランナー
+[System] 🗣️ Follower: 賛成です。ランナーでいきましょう。
+[System] ✅ Naming Agreement Reached: ランナー
+[System] --- Turn 16 ---
+[Leader] ✅ Naming Completed: ID=A2, Name=ランナー
+[Leader] 🎯 Target Selected: C2
+[Leader] 🧠 Thought: 直前の命名は「ランナー」で、右上の正方形の頭・右傾き・走る人といった表現は避ける。C2の別特徴から、弓なりの反り・尻尾の三角・影絵のキツネを用いる。ひらがな換算で26文字に収め、自然な発話にする。
+[Leader] 📐 Strategy: Description | Type: Mixed
+[Leader]    [Analytic]: ['弓なりに反った胴', '尻尾三角']
+[Leader]    [Holistic]: ['影絵のキツネ']
+[System] 🗣️ Leader: 弓なりに反った胴で尻尾三角の影絵のキツネ
+[System] ⚠️ Follower says 'Arimasen'.
+[System] ⚠️ No match count: 1/2
+[Follower] 🤔 Thought: 相手は弓なりの胴体と三角の尻尾という曲線的・動物シルエットを示唆。未命名候補A1は縦長に積層、右側直線、下の三角が台座状などで弓なりに反る印象と一致せず、合致なしと判断。命名済みではC2が「全体が弓なり」「中央が太い」「右上の正方形が傾いている」「背中のラインが滑らか」により影絵の動物に酷似し最有力。A2はX字で硬質、C1は柱状で尖塔的、A3は動物シルエット要素はあるが底が平らで弓なりとは異なる、C3は四方に角で全く異なるため低確率とした。
+[Follower] 📐 Strategy: Type:None
+[Follower] 📊 PN (Unnamed): {A1:1.00}
+[Follower] 🛡️ PA (Named - Matching?): {C2:0.90, A2:0.10, A3:0.05, C1:0.05, C3:0.00}
+[System] 🗣️ Follower: ありません
+[System] ⏳ Follower rejected. Skipping similarity check.
+[System] --- Turn 17 ---
+[Leader] 🧠 Thought: 未命名候補C2を再提示。直前に使った「弓なり」「尻尾」「キツネ」は避け、別の特徴で短く表現。右上の傾いた正方形の頭、中央が太い印象、全体印象は踊る人で提示。25±3の文字数に収めた。
+[Leader] 📐 Strategy: Description | Type: Mixed
+[Leader]    [Analytic]: ['右上に傾く四角の頭', '胴が太い']
+[Leader]    [Holistic]: ['踊る人']
+[System] 🗣️ Leader: 右上に傾く四角の頭で胴が太い踊る人
+[System] ⚠️ Follower says 'Arimasen'.
+[System] ⚠️ No match count: 2/2
+[System] 🗣️ Follower (Auto-Revoke): あなたの説明だと命名済みの『祈る人』が当てはまります。間違えていたかもしれないのでやり直しませんか？
+[System] 🗣️ Leader (Auto-Revoke): わかりました。『祈る人』と命名したタングラムの命名を撤回します。
+[System] 🗣️ Follower (Auto-Revoke): わかりました
+[Follower] 🤔 Thought: 合致なし。提示の「右上に傾く正方形の頭」「胴が太い」「踊る人」の要素はC2の「右上の正方形が傾いている」「中央部分が太い」「動きのある印象」と強く一致。回転を考慮してもA1には右上の傾いた正方形頭や太い胴の記述がなく、縦積み・右辺直線・左に四角突出が主で不一致と判断。よって未命名候補への適合は見当たらず、命名済みではC2を最有力、次点で中央が太く人型印象のあるC1をやや高めに設定。他はわずかに当てはまり得る程度に低く設定。
+[Follower] 📐 Strategy: Type:None
+[Follower] 📊 PN (Unnamed): {A1:1.00}
+[Follower] 🛡️ PA (Named - Matching?): {C2:0.90, C1:0.30, A2:0.20, C3:0.10, A3:0.05}
+[System] 🔄 Revoke Accepted for '祈る人'. Resetting target.
+[System] --- Turn 18 ---
+[Leader] 🔄 Revoked Name: '祈る人' (ID: A1). Returned to candidates.
+[Leader] 🎯 Target Selected: A1
+[Leader] 🧠 Thought: A1を再確認するため、C2の直前の命名対話に被らない表現で、識別性の高い特徴（右側の直線と横顔の印象）を短く提示する。
+[Leader] 📐 Strategy: Description | Type: Mixed
+[Leader]    [Analytic]: ['右側が直線']
+[Leader]    [Holistic]: ['右向きの横顔の像']
+[System] 🗣️ Leader: 右向きの横顔で右側が直線の像ですか
+[Follower] 🤔 Thought: 発話は「右向きの横顔」「右側が直線」。未命名ではA1に「右側のラインが直線的」「左側に四角形が突出」「全体が縦長に積み重なっている」があり一致度が高い。C2は全体が弓なりで背中が滑らかとあり、右側直線という条件と相反するため低め。命名済みではA3に「右側の首部分が垂直」があり部分一致の可能性が中程度。C1は柱状で先端尖りの印象から横顔には弱いが右側が直線的に見える配置もあり低中程度。A2はX字で直線右辺の印象が弱く低め。C3は四方に角の星形で横顔や直線右辺に合致しにくくごく低い。回転の可能性も考慮したがA1優勢は変わらない。
+[Follower] 📐 Strategy: Type:Analytic
+[Follower]    [Analytic]: ['右側直線で左に四角']
+[Follower] 📊 PN (Unnamed): {A1:0.90, C2:0.10}
+[Follower] 🛡️ PA (Named - Matching?): {A3:0.40, C1:0.20, A2:0.10, C3:0.05}
+[System] 🗣️ Follower: 当てはまります。右側直線で左に四角。
+[System] 📏 Similarity: 0.580
+[System] ✨ High Similarity Detected. Switching to NAMING PHASE.
+[System] --- Turn 19 ---
+[Leader] 🧠 Thought: これまでと重複しない短い名称で、人の横顔・祈る人という全体イメージを端的に表す名前を選んだ。
+[Leader] 📐 Strategy: Naming_Proposal | Type: Holistic
+[Leader]    [Holistic]: ['祈りの像']
+[Leader] 💡 Proposing Name: 祈りの像
+[System] 🗣️ Leader: それなら、『祈りの像』はどうでしょう。
+[Follower] 🤔 Thought: 提案名に賛成し、短く自然な同意の発話を作成。特徴表現は避け、抽出リストは空とした。
+[Follower] 📐 Strategy: Type:None
+[Follower] 📊 PN (Unnamed): {positive:1.00, negative:0.00}
+[Follower] 🛡️ PA (Named - Matching?): {A3:0.00, C3:0.00, C1:0.00, A2:0.00}
+[Follower] 🤝 Accepted Name: 祈りの像
+[System] 🗣️ Follower: 賛成です。祈りの像でいきましょう。
+[System] ✅ Naming Agreement Reached: 祈りの像
+[System] --- Turn 20 ---
+[Leader] ✅ Naming Completed: ID=A1, Name=祈りの像
+[Leader] 🎯 Target Selected: C2
+[Leader] 🧠 Thought: ターゲットC2の特徴から、過去直近で伝えたA1の特徴（右側直線、横顔など）は避け、C2固有の全体印象と形状（弓なり・中央が太い・跳ねるウサギ）に絞って、25文字±3の自然な発話を作成した。
+[Leader] 📐 Strategy: Description | Type: Mixed
+[Leader]    [Analytic]: ['弓なりに反り', '中央が太い']
+[Leader]    [Holistic]: ['跳ねるウサギ']
+[System] 🗣️ Leader: 弓なりに反り中央が太い跳ねるウサギ
+[Follower] 🤔 Thought: 相手の説明「弓なりに反り」「中央が太い」はC2の特徴「全体が弓なりに反っている」「中央部分が太い」と強一致。比喩「跳ねるウサギ」もC2の「跳ねるイルカ」と運動感が類似し整合的。回転差を考えても整合性が高い。よって未命名候補はC2を1.0とした。命名済みのうちA1は説明文中に「跳ねるウサギ」が含まれるため印象面でやや当てはまりうるが、A1は縦長直線的で弓なりではないため中程度以下(0.3)。A2はX字で弓なりでないため低(0.1)。C1は中央が太い点は似るが弓なりでないため低(0.1)。A3は山形・底平で合致弱(0.05)。C3は四方に角で全く異なるため0.0とした。
+[Follower] 📐 Strategy: Type:Mixed
+[Follower]    [Analytic]: ['中央が太い']
+[Follower]    [Holistic]: ['弓なり']
+[Follower] 📊 PN (Unnamed): {C2:1.00}
+[Follower] 🛡️ PA (Named - Matching?): {A1:0.30, C1:0.10, A2:0.10, A3:0.05, C3:0.00}
+[System] 🗣️ Follower: 当てはまります。弓なりで中央が太いです
+[System] 📏 Similarity: 0.854
+[System] ✨ High Similarity Detected. Switching to NAMING PHASE.
+[System] --- Turn 21 ---
+[Leader] 🧠 Thought: 弓なりに反った姿と跳ねる印象を短く伝えられる名前を選んだ。既存名と重複せず、発話として自然で覚えやすい表現にした。
+[Leader] 📐 Strategy: Naming_Proposal | Type: Mixed
+[Leader]    [Analytic]: ['弓なり']
+[Leader]    [Holistic]: ['ウサギ']
+[Leader] 💡 Proposing Name: 跳ねウサギ
+[System] 🗣️ Leader: 弓なりの『跳ねウサギ』でどうでしょう。
+[Follower] 🤔 Thought: Accept the proposed name and confirm concisely.
+[Follower] 📐 Strategy: Type:None
+[Follower] 📊 PN (Unnamed): {}
+[Follower] 🛡️ PA (Named - Matching?): {A3:0.00, C3:0.00, C1:0.00, A2:0.00, A1:0.00}
+[Follower] 🤝 Accepted Name: 跳ねウサギ
+[System] 🗣️ Follower: 賛成です。跳ねウサギにしましょう。
+[System] ✅ Naming Agreement Reached: 跳ねウサギ
+[System] --- Turn 22 ---
+[System] 🎉 All Tangrams Identified!
+[System] 🏁 Simulation Finished.
+
+========================================
+
+📊 Expression Counts:
+   [Leader]
+     - Holistic: 20
+     - Analytic: 23
+     - Mixed   : 0
+   [Follower]
+     - Holistic: 4
+     - Analytic: 14
+     - Mixed   : 0
+
+💰 Token Usage Summary (Session 14):
+   [Leader]   In: 34588, Out: 25875 (Total: 60463)
+   [Follower] In: 42266, Out: 25470 (Total: 67736)
+   --------------------------------------------------
+   [TOTAL]    128199 tokens
+
+========================================
+📊 Final Naming Results:
+[Leader]   {"A3": "折り鶴", "C3": "手裏剣", "C1": "サボテン", "A2": "ランナー", "A1": "祈りの像", "C2": "跳ねウサギ"}
+[Follower] {"A3": "折り鶴", "C3": "手裏剣", "C1": "サボテン", "A2": "ランナー", "A1": "祈りの像", "C2": "跳ねウサギ"}

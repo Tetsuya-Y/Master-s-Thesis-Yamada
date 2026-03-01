@@ -1,0 +1,273 @@
+=== Session 3 (MaxChar=30) ===
+Date: 2026-01-29T00:21:17.484941
+
+[System] 🚀 Started Session 3. Max Char = 30
+[System] --- Turn 1 ---
+[Leader] 🎯 Target Selected: C2
+[Leader] 🧠 Thought: ターゲットC2の主要な幾何学的特徴を、30±3文字の範囲で自然な発話にまとめた。全体の流れ方向と右上の正方形、中央S字を盛り込み、IDや過去の重複はないため制約を満たす。
+[Leader] 📐 Strategy: Description | Type: Analytic
+[Leader]    [Analytic]: ['右上に正方形', '中央S字', '左下へ流れる']
+[System] 🗣️ Leader: 右上に正方形、中央S字で左下へ流れる
+[Follower] 🤔 Thought: 相手の記述「右上に正方形、中央S字で左下へ流れる」はC2の特徴「中央部はS字」「全体として右上から左下へ流れる」「正方形は傾いている」に強く一致。C1は正方形が左側と明記され逆方向で不一致。B2は右側に鋭い三角と底辺水平などが主でS字や流れの記述がなく一致度低。B3はV字や鳥状でS字や右上正方形に合わない。B1は縦長・左側凹みで不一致。C3は中心から四方に尖りS字でない。回転の可能性は考慮したが、方向性とS字が決定打でC2を最有力にした。
+[Follower] 📐 Strategy: Type:Analytic
+[Follower]    [Analytic]: ['中央S字', '右上の正方形', '左下へ流れます']
+[Follower] 📊 PN (Unnamed): {C2:0.90, B2:0.04, B3:0.03, C1:0.02, B1:0.01, C3:0.01}
+[System] 🗣️ Follower: 中央S字で右上の正方形、左下へ流れます
+[System] 📏 Similarity: 0.984
+[System] ✨ High Similarity Detected. Switching to NAMING PHASE.
+[System] --- Turn 2 ---
+[Leader] 🧠 Thought: 右上の独立した正方形やS字の流れから、動きと躍動感を強調した短い名称が適切と判断した。
+[Leader] 📐 Strategy: Naming_Proposal | Type: Holistic
+[Leader]    [Holistic]: ['宙返りダンサー']
+[Leader] 💡 Proposing Name: 宙返りダンサー
+[System] 🗣️ Leader: それなら、名前は『宙返りダンサー』でどうでしょう。
+[Follower] 🤔 Thought: 提案名に賛成のため受諾します。
+[Follower] 📐 Strategy: Type:None
+[Follower] 📊 PN (Unnamed): {}
+[Follower] 🤝 Accepted Name: 宙返りダンサー
+[System] 🗣️ Follower: いいですね、その名前でいきましょう。
+[System] ✅ Naming Agreement Reached: 宙返りダンサー
+[System] --- Turn 3 ---
+[Leader] ✅ Naming Completed: ID=C2, Name=宙返りダンサー
+[Leader] 🎯 Target Selected: B1
+[Leader] 🧠 Thought: 前回はC2の特徴（右上の正方形、S字、右上→左下の流れ）を伝えていたため、それらを避け、B1の識別に有効な幾何的特徴を短く盛り込む。30±3のひらがな換算になるよう語句を選び、自然な口語に整えた。
+[Leader] 📐 Strategy: 短く要点となる幾何特徴を口語で提示し、相手の回転差にも耐える抽象度で表現する。 | Type: Analytic
+[Leader]    [Analytic]: ['右が垂直', '左に四角い凹み', '頂は左上向き']
+[System] 🗣️ Leader: 右が垂直、左に四角い凹み、頂は左上向き
+[Follower] 🤔 Thought: 相手の記述は「右が垂直」「左に四角い凹み」「頂は左上向き」という幾何的特徴。左の四角い凹みはB1に明確に一致。右が垂直はC1の中央柱右辺が垂直という特徴に整合。頂が左上向きはB3の右上が最高点と逆なので不一致、B2・C3も該当度が低い。よってB1を最有力、C1を次点とし、他は低確率。命名済みC2はS字や右側の凹みなど今回の記述と合致せず低値。
+[Follower] 📐 Strategy: Type:Analytic
+[Follower]    [Analytic]: ['左に四角い凹み', '右は垂直', '頂は左上']
+[Follower] 📊 PN (Unnamed): {B1:0.65, C1:0.25, B2:0.04, B3:0.03, C3:0.03}
+[Follower] 🛡️ PA (Named - Matching?): {C2:0.02}
+[System] 🗣️ Follower: 左に四角い凹み、右は垂直で頂は左上
+[System] 📏 Similarity: 0.968
+[System] ✨ High Similarity Detected. Switching to NAMING PHASE.
+[System] --- Turn 4 ---
+[Leader] 🧠 Thought: 右側の垂直輪郭と上部の左上向き三角、下の安定した台形から、杖をついて直立する人物像の印象が強いと判断した。短く覚えやすい名称に集約。
+[Leader] 📐 Strategy: Naming_Proposal | Type: Holistic
+[Leader]    [Holistic]: ['老人']
+[Leader] 💡 Proposing Name: 杖つき老人
+[System] 🗣️ Leader: では、この図形は『杖つき老人』でいかがでしょう。
+[Follower] 🤔 Thought: 提案名に同意しました。追加の特徴は述べていません。
+[Follower] 📐 Strategy: Type:None
+[Follower] 📊 PN (Unnamed): {}
+[Follower] 🛡️ PA (Named - Matching?): {C2:0.00}
+[Follower] 🤝 Accepted Name: 杖つき老人
+[System] 🗣️ Follower: はい、その名前でいきましょう。
+[System] ✅ Naming Agreement Reached: 杖つき老人
+[System] --- Turn 5 ---
+[Leader] ✅ Naming Completed: ID=B1, Name=杖つき老人
+[Leader] 🎯 Target Selected: C1
+[Leader] 🧠 Thought: 前回と異なる図形の特徴を短く、方向の差にも通用する幾何的要素で表現した。
+[Leader] 📐 Strategy: C1の上部三角・中央柱・左に張り出す土台を端的に描写する。 | Type: Analytic
+[Leader]    [Analytic]: ['上に三角', '中央に柱', '左へ土台が張り出します']
+[System] 🗣️ Leader: 上に三角、中央に柱、左へ土台が張り出します。
+[Follower] 🤔 Thought: 発話の「上に三角」「中央に柱」「左へ土台が張り出す」はC1の特徴「中央に垂直に伸びる柱状」「下部の土台が左に突き出す」と一致し高評価。回転を考慮しても一致性が高い。C3も「中央に垂直な長方形に近いパーツ」があり次点だが、土台が左に張り出す記述とは弱一致。B2,B3は中央柱や左張り出し土台が乏しく低。命名済みではB1に「中央部に細い垂直パーツ」「下部に台形状の安定したパーツ」があり部分一致のためやや高め、C2はS字中心で柱・左張り出しがなく低。
+[Follower] 📐 Strategy: Type:Analytic
+[Follower]    [Analytic]: ['中央の柱', '左土台', '上三角']
+[Follower] 📊 PN (Unnamed): {C1:0.75, C3:0.20, B2:0.03, B3:0.02}
+[Follower] 🛡️ PA (Named - Matching?): {B1:0.30, C2:0.05}
+[System] 🗣️ Follower: 当てはまります。中央の柱と左土台、上三角。
+[System] 📏 Similarity: 0.892
+[System] ✨ High Similarity Detected. Switching to NAMING PHASE.
+[System] --- Turn 6 ---
+[Leader] 🧠 Thought: 中央の柱と左右の突起、上の三角からサボテンの印象が最も強いと判断。
+[Leader] 📐 Strategy: Naming_Proposal | Type: Holistic
+[Leader]    [Holistic]: ['サボテン']
+[Leader] 💡 Proposing Name: サボテン
+[System] 🗣️ Leader: では、名前はサボテンでどうでしょう。
+[Follower] 🤔 Thought: Agreeing to the proposed name succinctly without adding geometric descriptions.
+[Follower] 📐 Strategy: Type:None
+[Follower] 📊 PN (Unnamed): {positive:0.98, negative:0.02}
+[Follower] 🛡️ PA (Named - Matching?): {C2:0.00, B1:0.00}
+[Follower] 🤝 Accepted Name: サボテン
+[System] 🗣️ Follower: はい、サボテンにしましょう。
+[System] ✅ Naming Agreement Reached: サボテン
+[System] --- Turn 7 ---
+[Leader] ✅ Naming Completed: ID=C1, Name=サボテン
+[Leader] 🎯 Target Selected: B2
+[Leader] 🧠 Thought: 未説明のB2を対象に、特徴の一部を短く自然な発話で提示。長さはひらがな換算で約31文字に収め、分析的特徴と全体印象を両立させた。
+[Leader] 📐 Strategy: ホリスティックな比喩＋主要な形状特徴を簡潔に提示 | Type: Mixed
+[Leader]    [Analytic]: ['左に翼', '上に傾いた正方形']
+[Leader]    [Holistic]: ['祈る天使のように']
+[System] 🗣️ Leader: 祈る天使のように左に翼、上に傾いた正方形
+[Follower] 🤔 Thought: 今回の説明は「祈る天使」の比喩と「左に翼」「上に傾いた正方形」という要素。未命名では左に翼状の三角形が広がり、正方形パーツが胴体に角で接する構成を持つ候補が最も一致するため最有力。B3とC3には正方形の記述がなく一致度が低い。命名済みでは、C2とC1がいずれも傾いた正方形を含むため一定の当てはまり。ただC2は全体が斜流れやS字で、天使・翼のイメージとは距離があり中程度。C1は左に傾いた正方形と中央柱が特徴で、翼とは言い難いが形状として部分一致。B1は左の四角い凹みであり、傾いた正方形や翼の印象に乏しく低めとした。
+[Follower] 📐 Strategy: Type:Mixed
+[Follower]    [Analytic]: ['上の傾いた正方形']
+[Follower]    [Holistic]: ['左に翼']
+[Follower] 📊 PN (Unnamed): {B2:0.85, B3:0.10, C3:0.05}
+[Follower] 🛡️ PA (Named - Matching?): {C2:0.40, C1:0.35, B1:0.10}
+[System] 🗣️ Follower: 当てはまります。左に翼と上の傾いた正方形。
+[System] 📏 Similarity: 0.683
+[System] ✨ High Similarity Detected. Switching to NAMING PHASE.
+[System] --- Turn 8 ---
+[Leader] 🧠 Thought: 既存の命名と重複を避け、特徴の主印象である祈る天使像に基づき、短く覚えやすい名称を選定。
+[Leader] 📐 Strategy: Naming_Proposal | Type: Holistic
+[Leader]    [Holistic]: ['天使', '祈り']
+[Leader] 💡 Proposing Name: 祈りの天使
+[System] 🗣️ Leader: では、この図形は『祈りの天使』と呼びましょう。
+[Follower] 🤔 Thought: 提案名に同意しました。
+[Follower] 📐 Strategy: Type:None
+[Follower] 📊 PN (Unnamed): {}
+[Follower] 🛡️ PA (Named - Matching?): {C2:0.00, B1:0.00, C1:0.00}
+[Follower] 🤝 Accepted Name: 祈りの天使
+[System] 🗣️ Follower: はい、その名前でいきます。
+[System] ✅ Naming Agreement Reached: 祈りの天使
+[System] --- Turn 9 ---
+[Leader] ✅ Naming Completed: ID=B2, Name=祈りの天使
+[Leader] 🎯 Target Selected: C3
+[Leader] 🧠 Thought: C3の未提示特徴から重複を避け、右下の鋭い突起と下中央の小突起を要約し、全体印象は折り紙の鶴で短く表現。
+[Leader] 📐 Strategy: Description | Type: Mixed
+[Leader]    [Analytic]: ['右下に鋭い突起', '下に小さな角']
+[Leader]    [Holistic]: ['折り紙の鶴みたい']
+[System] 🗣️ Leader: 折り紙の鶴みたいで、右下に鋭い突起と下に小さな角。
+[Follower] 🤔 Thought: 今回の描写は「折り紙の鶴みたい」という全体印象と「右下に鋭い突起」「下に小さな角」という局所特徴を含む。B3は飛ぶ鳥・紙飛行機の印象に合致し、下部に小さな下向き三角があるため下の小角と一致。回転を考えれば右下の鋭い突起も説明可能。C3も中心から尖りが出る形で下部中央に小三角があるため一部一致するが、右下の鋭い突起という指向性とはややズレるため低め。命名済みではB2が右側に鋭い横突起と下部の小三角を持ち、鳥的印象もあり比較的似てしまうため高めに設定。他のC2/B1/C1はS字や縦柱・左張り出しなど今回の記述と整合しにくく低くした。
+[Follower] 📐 Strategy: Type:Mixed
+[Follower]    [Analytic]: ['右下の突起', '下の小三角']
+[Follower]    [Holistic]: ['鶴みたい']
+[Follower] 📊 PN (Unnamed): {B3:0.80, C3:0.20}
+[Follower] 🛡️ PA (Named - Matching?): {B2:0.50, C2:0.10, B1:0.05, C1:0.05}
+[System] 🗣️ Follower: 鶴みたいで右下の突起と下の小三角。
+[System] 📏 Similarity: 0.810
+[System] ✨ High Similarity Detected. Switching to NAMING PHASE.
+[System] --- Turn 10 ---
+[Leader] 🧠 Thought: 直近の描写が折り紙の鶴に寄っており、全体印象として紋章的な複雑さも示されているため、短く覚えやすい名称として両要素を統合した。
+[Leader] 📐 Strategy: Naming_Proposal | Type: Holistic
+[Leader]    [Holistic]: ['折り鶴の紋章']
+[Leader] 💡 Proposing Name: 折り鶴の紋章
+[System] 🗣️ Leader: それでは、この図形は『折り鶴の紋章』と呼びませんか。
+[Follower] 🤔 Thought: 提案名に同意し、短く自然に承認の返答をした。
+[Follower] 📐 Strategy: Type:None
+[Follower] 📊 PN (Unnamed): {positive:0.99, negative:0.01}
+[Follower] 🛡️ PA (Named - Matching?): {C2:0.00, B1:0.00, C1:0.00, B2:0.00}
+[Follower] 🤝 Accepted Name: 折り鶴の紋章
+[System] 🗣️ Follower: はい、その名前でいきましょう。
+[System] ✅ Naming Agreement Reached: 折り鶴の紋章
+[System] ⚠️ Misunderstanding! Leader named C3, but Follower named B3.
+[System] --- Turn 11 ---
+[Leader] ✅ Naming Completed: ID=C3, Name=折り鶴の紋章
+[Leader] 🎯 Target Selected: B3
+[Leader] 🧠 Thought: 未命名のB3を短く特徴づける。重複回避は他IDのみなので自由度あり。30±3文字に収め、向きの違いにも通用する斜め流れとV字、右上の鋭い三角を選択。
+[Leader] 📐 Strategy: 特徴の中核（三角の位置・流れの向き・V字折れ）を凝縮して口語で提示 | Type: Analytic
+[Leader]    [Analytic]: ['右上の鋭い三角', '左下へ流れ', 'V字形']
+[System] 🗣️ Leader: 右上の鋭い三角から左下へ流れ、V字形です。
+[System] ⚠️ Follower says 'Arimasen'.
+[System] ⚠️ No match count: 1/2
+[Follower] 🤔 Thought: 相手は「右上の鋭い三角」「左下へ流れる」「V字形」と述べた。これは右上の尖りとV字折れを強く示すため、中央でV字に折れ、右上の三角先端が最高点という特徴を持つB3に最も一致する。一方、未命名候補C3は右上が台形でありV字構成でもなく、中心から放射状の形なので今回の説明に合致しないため「合致なし」と判断。PNは候補がC3しかないため正規化上1.0だが、適合度は低い認識。命名済みではB3を最も高く、次いで全体が右上から左下へ流れるC2を中程度、右に鋭い突起を持つB2を低中、B1とC1は該当性が乏しいため低く設定した。
+[Follower] 📐 Strategy: Type:None
+[Follower] 📊 PN (Unnamed): {C3:1.00}
+[Follower] 🛡️ PA (Named - Matching?): {B3:0.85, C2:0.60, B2:0.30, B1:0.10, C1:0.05}
+[System] 🗣️ Follower: ありません
+[System] ⏳ Follower rejected. Skipping similarity check.
+[System] --- Turn 12 ---
+[Leader] 🧠 Thought: B3を再説明する必要がある。直前に伝えた「右上の鋭い三角」「右上から左下へ流れる」「V字」は避け、他の特徴で短く示す。文字数はひらがな換算で約30、自然な音声質問にする。
+[Leader] 📐 Strategy: Description | Type: Mixed
+[Leader]    [Analytic]: ['左に大三角', '下向き小三角']
+[Leader]    [Holistic]: ['矢印に見える']
+[System] 🗣️ Leader: 左に大三角と下向き小三角で、矢印に見えますか？
+[System] ⚠️ Follower says 'Arimasen'.
+[System] ⚠️ No match count: 2/2
+[System] 🗣️ Follower (Auto-Revoke): あなたの説明だと命名済みの『折り鶴の紋章』が当てはまります。間違えていたかもしれないのでやり直しませんか？
+[System] 🗣️ Leader (Auto-Revoke): わかりました。『折り鶴の紋章』と命名したタングラムの命名を撤回します。
+[System] 🗣️ Follower (Auto-Revoke): わかりました
+[Follower] 🤔 Thought: 今回の説明「左に大三角と下向き小三角」「矢印に見える」は、左側の大きな三角形と下向きの小三角、かつV字的シルエットを示唆し、強くB3の特徴（左に大三角、中央V字、下部に下向き小三角）に一致する。C3は中央の縦長パーツと中心放射、左下尖りと下部中央の小突起が特色で、「左に大三角」「下向き小三角で矢印」の構図とは合致しない。回転も考慮したが、C3を回しても左に大三角＋明確な下向き小三角による矢印感は弱い。よって未命名候補には合致なしとして扱い、PNは候補が一つのため正規化上1.0だが、実質的には不一致。PAはB3を高く（0.9）、他は低く設定した。
+[Follower] 📐 Strategy: Type:None
+[Follower] 📊 PN (Unnamed): {C3:1.00}
+[Follower] 🛡️ PA (Named - Matching?): {B3:0.90, B2:0.10, C2:0.05, C1:0.03, B1:0.02}
+[System] 🔄 Revoke Accepted for '折り鶴の紋章'. Resetting target.
+[System] --- Turn 13 ---
+[Leader] 🔄 Revoked Name: '折り鶴の紋章' (ID: C3). Returned to candidates.
+[Leader] 🎯 Target Selected: C3
+[Leader] 🧠 Thought: C3の未使用要素を選び、短い中で分析的特徴と全体印象を両立させた。以前述べた右下突起・下小三角・折り鶴は避けた。ひらがな換算約33字に収めた。
+[Leader] 📐 Strategy: Description | Type: Mixed
+[Leader]    [Analytic]: ['左上に直角大三角', '中央は縦柱']
+[Leader]    [Holistic]: ['蟹っぽいです']
+[System] 🗣️ Leader: 左上に直角大三角、中央は縦柱、蟹っぽいです。
+[Follower] 🤔 Thought: 相手の特徴「中央は縦柱」「蟹っぽい」はC3の「中央に垂直な長方形に近いパーツ」「中心から四方に尖った形」に合致し、甲殻類的な印象とも整合するためC3を高確率とした。B3はV字や紙飛行機的で縦柱要素が弱く低め。命名済みではC1も中央の柱があり部分一致だが左の正方形や右辺垂直など今回の記述とズレがあるため中程度、B1は中央の細い垂直パーツがありわずかに当てはまるが全体は縦長で蟹印象に乏しく低〜中、C2とB2は縦柱要素がなく流れや突起方向が異なり低とした。回転の可能性は考慮したが核心の縦柱＋四方突起はC3が最も説明できる。
+[Follower] 📐 Strategy: Type:Mixed
+[Follower]    [Analytic]: ['中央に縦柱']
+[Follower]    [Holistic]: ['蟹っぽい']
+[Follower] 📊 PN (Unnamed): {C3:0.85, B3:0.15}
+[Follower] 🛡️ PA (Named - Matching?): {C1:0.30, B1:0.20, C2:0.05, B2:0.05}
+[System] 🗣️ Follower: 当てはまります。中央に縦柱で蟹っぽい。
+[System] 📏 Similarity: 0.884
+[System] ✨ High Similarity Detected. Switching to NAMING PHASE.
+[System] --- Turn 14 ---
+[Leader] 🧠 Thought: 既存名と重複を避けつつ、蟹やドローンの印象を短く覚えやすくまとめるため、カタカナの造語を採用。全体発話は30文字以内に抑える。
+[Leader] 📐 Strategy: Naming_Proposal | Type: None
+[Leader] 💡 Proposing Name: カニドローン
+[System] 🗣️ Leader: では、『カニドローン』で。
+[Follower] 🤔 Thought: 提案された名前に同意しました。
+[Follower] 📐 Strategy: Type:None
+[Follower] 📊 PN (Unnamed): {positive:0.99, negative:0.01}
+[Follower] 🛡️ PA (Named - Matching?): {C2:0.00, B1:0.00, C1:0.00, B2:0.00}
+[Follower] 🤝 Accepted Name: カニドローン
+[System] 🗣️ Follower: はい、カニドローンでいきましょう。
+[System] ✅ Naming Agreement Reached: カニドローン
+[System] --- Turn 15 ---
+[Leader] ✅ Naming Completed: ID=C3, Name=カニドローン
+[Leader] 🎯 Target Selected: B3
+[Leader] 🧠 Thought: B3を説明するにあたり、直前の命名会話で使った特徴（左上の直角大三角、中央の縦柱、蟹っぽい）や、以前B3で述べたV字・右上三角・左下への流れ・矢印などは避け、未使用の全体的比喩で表現。文字数はひらがな換算で約29字に調整。
+[Leader] 📐 Strategy: Description | Type: Holistic
+[Leader]    [Holistic]: ['水面を跳ねる魚のようで', '滑空するツバメにも見えます']
+[System] 🗣️ Leader: 水面を跳ねる魚のようで滑空するツバメにも見えます
+[Follower] 🤔 Thought: 今回の印象は「水面を跳ねる魚」「滑空するツバメ」といった全体像の比喩で、飛行・滑空のイメージが強い。未命名候補はB3のみで、B3には「飛んでいる鳥」「紙飛行機」「ブーメラン」「中央部でV字型に折れ曲がっている」「右上の三角の先端が最高点」といった、滑空感や跳躍感に合うホリスティックおよび構造的特徴が揃っているため一致度を最大と判断。命名済みでは、C2は魚モチーフがあり一部一致するが滑空感は弱いので低〜中。C1は「急降下する鳥」要素があり鳥の印象で一部重なるが、柱状パーツ等の特徴は今回の描写と乖離し中程度以下。B2は抽象的な魚や鳥（止まり方）で一部連想は可能だが滑空・跳ねの動勢が弱く低め。C3は蝶の飛翔で飛ぶ印象はあるが放射形状が今回のV字的流れと異なり低め。B1は縦長で泳ぐ人など、今回の空中滑空・跳ねる魚の印象から遠いのでごく低くした。
+[Follower] 📐 Strategy: Type:Mixed
+[Follower]    [Analytic]: ['V字の印象']
+[Follower]    [Holistic]: ['飛ぶ鳥']
+[Follower] 📊 PN (Unnamed): {B3:1.00}
+[Follower] 🛡️ PA (Named - Matching?): {C2:0.20, C1:0.15, B2:0.10, C3:0.10, B1:0.05}
+[System] 🗣️ Follower: 当てはまります。飛ぶ鳥でV字の印象です。
+[System] 📏 Similarity: 0.443
+[System] --- Turn 16 ---
+[Leader] 🧠 Thought: 直前に伝えた魚・ツバメ・V字の印象は避け、未言及の幾何学的特徴を30文字程度で提示する。
+[Leader] 📐 Strategy: Description | Type: Analytic
+[Leader]    [Analytic]: ['右上の鋭い三角', '左下へ斜めに伸びます']
+[System] 🗣️ Leader: 右上の鋭い三角から左下へ斜めに伸びます
+[Follower] 🤔 Thought: 説明は右上の鋭い先端と左下への斜めの流れを示し、B3の「右上の三角の先端が最高点」「中央部でV字」「左端が鋭い角」によく一致するためPNはB3を1.0とした。命名済みではC2が「全体として右上から左下へ流れる配置」と類似し当たりやすいので高め、他は特徴が合致しにくく低く設定した。回転差も考慮して方向性の一致を重視した。
+[Follower] 📐 Strategy: Type:Analytic
+[Follower]    [Analytic]: ['右上先端が最高', '左下へ']
+[Follower] 📊 PN (Unnamed): {B3:1.00}
+[Follower] 🛡️ PA (Named - Matching?): {C2:0.60, B1:0.10, B2:0.10, C1:0.05, C3:0.05}
+[System] 🗣️ Follower: 当てはまります。右上先端が最高で左下へ。
+[System] 📏 Similarity: 0.701
+[System] ✨ High Similarity Detected. Switching to NAMING PHASE.
+[System] --- Turn 17 ---
+[Leader] 🧠 Thought: 矢印の鋭さとツバメの滑空イメージを統合し、短く覚えやすい和名で表現する。
+[Leader] 📐 Strategy: Naming_Proposal | Type: Holistic
+[Leader]    [Holistic]: ['飛燕の矢']
+[Leader] 💡 Proposing Name: 飛燕の矢
+[System] 🗣️ Leader: それでは、この図形は『飛燕の矢』と呼びませんか？
+[Follower] 🤔 Thought: 提案名に同意し、発話には特徴表現を含めない短い合意文を選択しました。
+[Follower] 📐 Strategy: Type:None
+[Follower] 📊 PN (Unnamed): {}
+[Follower] 🛡️ PA (Named - Matching?): {C2:0.00, B1:0.00, C1:0.00, B2:0.00, C3:0.00}
+[Follower] 🤝 Accepted Name: 飛燕の矢
+[System] 🗣️ Follower: はい、その名前でいきましょう。
+[System] ✅ Naming Agreement Reached: 飛燕の矢
+[System] --- Turn 18 ---
+[System] 🎉 All Tangrams Identified!
+[System] 🏁 Simulation Finished.
+
+========================================
+
+📊 Expression Counts:
+   [Leader]
+     - Holistic: 13
+     - Analytic: 22
+     - Mixed   : 0
+   [Follower]
+     - Holistic: 4
+     - Analytic: 16
+     - Mixed   : 0
+
+💰 Token Usage Summary (Session 3):
+   [Leader]   In: 32036, Out: 19283 (Total: 51319)
+   [Follower] In: 34671, Out: 17091 (Total: 51762)
+   --------------------------------------------------
+   [TOTAL]    103081 tokens
+
+========================================
+📊 Final Naming Results:
+[Leader]   {"C2": "宙返りダンサー", "B1": "杖つき老人", "C1": "サボテン", "B2": "祈りの天使", "C3": "カニドローン", "B3": "飛燕の矢"}
+[Follower] {"C2": "宙返りダンサー", "B1": "杖つき老人", "C1": "サボテン", "B2": "祈りの天使", "C3": "カニドローン", "B3": "飛燕の矢"}

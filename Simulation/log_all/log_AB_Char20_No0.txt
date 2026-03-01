@@ -1,0 +1,256 @@
+=== Session 9 (MaxChar=20) ===
+Date: 2026-01-27T16:51:56.900790
+
+[System] 🚀 Started Session 9. Max Char = 20
+[System] --- Turn 1 ---
+[Leader] 🎯 Target Selected: B2
+[Leader] 🧠 Thought: 短い一文でB2の特徴を端的に表し、回転差にも通用する中心要素（上部の菱形＋座る姿）を選んだ。
+[Leader] 📐 Strategy: Description | Type: Mixed
+[Leader]    [Analytic]: ['中央上に菱形を載せた']
+[Leader]    [Holistic]: ['座像']HA
+[System] 🗣️ Leader: 中央上に菱形を載せた座像です。
+[Follower] 🤔 Thought: 発話の核は「中央上に菱形（=正方形を傾けたもの）が載る」「座像」。未命名の中で上部に独立した正方形パーツが明示されるのはB2（正方形のパーツが下の図形から少し浮いて配置）で、上に“載る”という描写と整合するため最有力。次点で「椅子に深く腰掛けている人」という座像的な印象が強いB1を高めた。ただしB1には上部の菱形を示す特徴がなく減点。A2は中央の垂直軸や人の印象があるが“座像”や上部菱形の記述が弱く低め。A1/A3/B3は方向性やパーツ配置が合致しにくいため極小にした。命名済みは空なのでPAは空。
+[Follower] 📐 Strategy: Type:Mixed
+[Follower]    [Analytic]: ['上で浮く正方形']
+[Follower]    [Holistic]: ['座像']HA
+[Follower] 📊 PN (Unnamed): {B2:0.58, B1:0.30, A2:0.07, A1:0.02, B3:0.02, A3:0.01}
+[System] 🗣️ Follower: 上で浮く正方形の座像
+[System] 📏 Similarity: 0.652
+[System] ✨ High Similarity Detected. Switching to NAMING PHASE.
+[System] --- Turn 2 ---
+[Leader] 🧠 Thought: 対称的で座る僧侶や蝶の印象から、短く覚えやすい和名風の呼称を選んだ。既出名と重複しない一語で提示する。
+[Leader] 📐 Strategy: Naming_Proposal | Type: Holistic
+[Leader]    [Holistic]: ['座禅僧']
+[Leader] 💡 Proposing Name: 座禅僧
+[System] 🗣️ Leader: では、この形は「座禅僧」と呼びましょう。
+[Follower] 🤔 Thought: Accepted the proposed name succinctly and ensured the utterance is short and natural.
+[Follower] 📐 Strategy: Type:None
+[Follower] 📊 PN (Unnamed): {positive:0.99, negative:0.01}
+[Follower] 🤝 Accepted Name: 座禅僧
+[System] 🗣️ Follower: いいですね、座禅僧で。
+[System] ✅ Naming Agreement Reached: 座禅僧
+[System] --- Turn 3 ---
+[Leader] ✅ Naming Completed: ID=B2, Name=座禅僧
+[Leader] 🎯 Target Selected: A2
+[Leader] 🧠 Thought: 前回は座像や正方形上部などの要素に触れていたため、それらを避けてA2を短く特徴づける。走者の印象と左方向への動きのニュアンスで伝える。
+[Leader] 📐 Strategy: 短いホリスティック表現に軽い動作描写を添えて、20文字前後で自然な発話にする。 | Type: Holistic
+[Leader]    [Holistic]: ['走者']
+[System] 🗣️ Leader: いまにも左へ腕を伸ばす走者です。
+[Follower] 🤔 Thought: 発話は「左へ腕を伸ばす走者」という全体印象で、人の動きのシルエットが鍵。未命名の中で人の動きが明確なのはB3（跳躍している人、走っているキツネ、下部が右上がり、右上先端が尖る）で、回転・左右反転により左へ腕を伸ばす印象にも合致しやすい。A1は踊っている人や走る動物など人型の可能性はあるが縦長で右側膨らみなどが走者の印象とはややずれる。A2は寝そべる/腹筋の印象で不一致。A3は横長で鳥/矢印、走者像は弱い。B1は椅子に座る人で動的走者とは逆。よってB3を最有力としA1を次点、他は低め。命名済みB2は左右対称で手を広げた人や弓の印象で走者像とは遠く低確率。
+[Follower] 📐 Strategy: Type:Holistic
+[Follower]    [Holistic]: ['跳躍している人']
+[Follower] 📊 PN (Unnamed): {B3:0.65, A1:0.20, A2:0.05, A3:0.05, B1:0.05}
+[Follower] 🛡️ PA (Named - Matching?): {B2:0.05}
+[System] 🗣️ Follower: 跳躍している人ですね
+[System] 📏 Similarity: 0.417
+[System] --- Turn 4 ---
+[Leader] 🧠 Thought: 直前の発話で出た走者や跳躍の表現を避け、A2の分析的特徴を短く提示しました。字数条件に合わせ、右上の離れた正方形と片足モチーフを選択しました。
+[Leader] 📐 Strategy: Description | Type: Mixed
+[Leader]    [Analytic]: ['右上に離れた正方形', '片足']
+[Leader]    [Holistic]: ['人']HA
+[System] 🗣️ Leader: 右上に離れた正方形と片足の人だ
+[Follower] 🤔 Thought: 今回の発話は「右上に離れた正方形」と「片足の人」という2点の幾何学的・部分的特徴が核。未命名の中で「片足」に強く一致するのはA2（下部に一本の足のように見える三角形）。A2は正方形に関する記述もあり（正方形の角が本体の角と向かい合う）が「離れている」とまでは明記されないため一致度はやや減点。一方、命名済みのB2は「正方形のパーツが下の図形から少し浮いて配置されている」が明確で、「離れた正方形」にかなり一致。ただしB2は全体が左右対称に近く「片足の人」には合致しにくいのでPAは高めだが1.0ではない。その他の候補（A1/A3/B1/B3）は正方形や浮遊パーツの明示がなく、「片足」も弱く、低確率配分とした。回転の可能性は考慮したが、決定的な正方形の分離特徴が未命名ではA2が最も近いと判断しA2を最有力にした。
+[Follower] 📐 Strategy: Type:Analytic
+[Follower]    [Analytic]: ['右上に浮く正方形', '片足']
+[Follower] 📊 PN (Unnamed): {A2:0.70, A1:0.10, B3:0.10, A3:0.05, B1:0.05}
+[Follower] 🛡️ PA (Named - Matching?): {B2:0.65}
+[System] 🗣️ Follower: 右上に浮く正方形と片足ですね
+[System] 📏 Similarity: 0.832
+[System] ✨ High Similarity Detected. Switching to NAMING PHASE.
+[System] --- Turn 5 ---
+[Leader] 🧠 Thought: 短く覚えやすく、特徴を示す名称を提案しました。
+[Leader] 📐 Strategy: Naming_Proposal | Type: Mixed
+[Leader]    [Analytic]: ['片足']
+[Leader]    [Holistic]: ['ランナー']H
+[Leader] 💡 Proposing Name: 片足ランナー
+[System] 🗣️ Leader: では、名前は「片足ランナー」でいかがでしょう。
+[Follower] 🤔 Thought: 提案名に同意し、簡潔に了承の意を示す発話を選んだ。
+[Follower] 📐 Strategy: Type:None
+[Follower] 📊 PN (Unnamed): {}
+[Follower] 🛡️ PA (Named - Matching?): {B2:0.00}
+[Follower] 🤝 Accepted Name: 片足ランナー
+[System] 🗣️ Follower: 片足ランナーで。
+[System] ✅ Naming Agreement Reached: 片足ランナー
+[System] --- Turn 6 ---
+[Leader] ✅ Naming Completed: ID=A2, Name=片足ランナー
+[Leader] 🎯 Target Selected: A3
+[Leader] 🧠 Thought: 過去の対話で人型や浮いた正方形などは既出なので避け、A3の固有性を出すために中央のV字の谷と白鳥の全体印象を短く提示。文字数はひらがな換算で約19に収めた。
+[Leader] 📐 Strategy: 中央のV字の切れ込みという幾何特徴と白鳥という全体印象を併記して、短文で自然に伝える。 | Type: Mixed
+[Leader]    [Analytic]: ['中央にV字の谷']
+[Leader]    [Holistic]: ['白鳥']HA
+[System] 🗣️ Leader: 中央にV字の谷の白鳥ですよ
+[Follower] 🤔 Thought: 発話は「白鳥」と「中央にV字の谷」という印象と形状の両方を含む。A3は白鳥の比喩と中央のV字型の深い谷間という特徴が一致し、全体も横長で整合的。B3もV字の切れ込みは一致するが、モチーフが動物や人の跳躍で白鳥とは乖離し、横長とも限らないため次点。A1は縦長で白鳥やV谷の言及と不一致、B1はS字や小舟/鳥だがV字谷の決定的特徴が弱いので低め。命名済みではB2が鳥的解釈はあり得るがV字谷の記述がなく対称的胴体中心でズレ、A2は人型・縦軸が強く合致せず、ともに低確率。
+[Follower] 📐 Strategy: Type:Mixed
+[Follower]    [Analytic]: ['V字の谷']
+[Follower]    [Holistic]: ['白鳥']HA
+[Follower] 📊 PN (Unnamed): {A3:0.85, B3:0.10, B1:0.03, A1:0.02}
+[Follower] 🛡️ PA (Named - Matching?): {B2:0.05, A2:0.02}
+[System] 🗣️ Follower: 当てはまります。白鳥でV字の谷
+[System] 📏 Similarity: 0.859
+[System] ✨ High Similarity Detected. Switching to NAMING PHASE.
+[System] --- Turn 7 ---
+[Leader] 🧠 Thought: 白鳥・鶴の印象と中央のV字要素を短く統合した名前を選んだ。
+[Leader] 📐 Strategy: Naming_Proposal | Type: Mixed
+[Leader]    [Analytic]: ['V翼']
+[Leader]    [Holistic]: ['鶴']H
+[Leader] 💡 Proposing Name: V翼の鶴
+[System] 🗣️ Leader: それでは、名前は「V翼の鶴」でいかがでしょう。
+[Follower] 🤔 Thought: 提案名に同意し、特徴表現を含まない短い応答を選択。
+[Follower] 📐 Strategy: Type:None
+[Follower] 📊 PN (Unnamed): {accept:0.99, reject:0.01}
+[Follower] 🛡️ PA (Named - Matching?): {B2:0.00, A2:0.00}
+[Follower] 🤝 Accepted Name: V翼の鶴
+[System] 🗣️ Follower: いいですね、V翼の鶴で。
+[System] ✅ Naming Agreement Reached: V翼の鶴
+[System] --- Turn 8 ---
+[Leader] ✅ Naming Completed: ID=A3, Name=V翼の鶴
+[Leader] 🎯 Target Selected: B3
+[Leader] 🧠 Thought: 直前で「白鳥」「V字」を用いていたため回避し、B3の別の印象語として紙飛行機と右肩上がりを採用。ひらがな換算20字に調整。
+[Leader] 📐 Strategy: 鋭さと進行方向を示す比喩（紙飛行機）で全体像を短く描写 | Type: Mixed
+[Leader]    [Analytic]: ['右肩上がり']
+[Leader]    [Holistic]: ['紙飛行機', '鋭い']H
+[System] 🗣️ Leader: 右肩上がりの鋭い紙飛行機です
+[Follower] 🤔 Thought: 発話は「右肩上がり」「鋭い」「紙飛行機」。右上方向への上昇感と尖った先端が鍵。未命名ではB3に「斜め上を指す矢印」「右上の先端が尖った」「下部が右上がりの傾斜」があり強く合致。B1も「中央に右上がりの長い斜辺」「右向き三角の土台」で右肩上がりの印象はあるが、全体は緩やかなS字で紙飛行機の直線的・鋭利さに劣るため次点。A1は縦長で右側の膨らみがあり紙飛行機のシャープさと乖離し低確率。命名済みではA2に「飛行機が低空飛行」「全体が右側に傾斜」「中央に垂直軸」があり“紙飛行機”という連想が強く、回転を考慮してある程度当てはまりうるため高め。A3は「大きな矢印」「横長」「V字谷」で矢印の印象は近いが“右肩上がり”と鋭い機首感はB3ほどではないので中程度。B2は左右対称的で台形の土台や浮いた正方形などが“紙飛行機”像と乖離するため低い。回転差は考慮したが、B3の右上に尖る先端という特徴は回転しても一貫して“上昇する矢印/紙飛行機”に最も一致する。
+[Follower] 📐 Strategy: Type:Mixed
+[Follower]    [Analytic]: ['鋭い先端']
+[Follower]    [Holistic]: ['斜め上を指す']A
+[Follower] 📊 PN (Unnamed): {B3:0.75, B1:0.20, A1:0.05}
+[Follower] 🛡️ PA (Named - Matching?): {A2:0.45, A3:0.20, B2:0.05}
+[System] 🗣️ Follower: 斜め上を指す鋭い先端です
+[System] 📏 Similarity: 0.403
+[System] --- Turn 9 ---
+[Leader] 🧠 Thought: B3の未伝達特徴から、回転差に左右されにくい「中央上部の深いV字の切れ込み」を選び、20±3文字の自然な発話に収めた。
+[Leader] 📐 Strategy: Description | Type: Analytic
+[Leader]    [Analytic]: ['中央上に深いV字の切れ込み']
+[System] 🗣️ Leader: 中央上に深いV字の切れ込みだよ
+[Follower] 🤔 Thought: 発話は「中央上に深いV字の切れ込み」。未命名の中でこれを明示する特徴はB3の「中央上部に深いV字の切れ込みがある」と一致し、最有力と判断。A1やB1にはV字切れ込みの記述がなく低確率とした。命名済みではA3に「中央部分にV字型の深い谷間」があり、位置の表現（中央上 vs 中央）に差はあるが酷似するため高めに設定。B2とA2は該当特徴がなく低くした。回転の可能性は考慮したが、V字が中央上である点はB3の記述と最も整合的。
+[Follower] 📐 Strategy: Type:Analytic
+[Follower]    [Analytic]: ['中央上の深いV字']
+[Follower] 📊 PN (Unnamed): {B3:0.95, A1:0.03, B1:0.02}
+[Follower] 🛡️ PA (Named - Matching?): {A3:0.85, B2:0.05, A2:0.02}
+[System] 🗣️ Follower: 中央上の深いV字ですね
+[System] 📏 Similarity: 0.934
+[System] ✨ High Similarity Detected. Switching to NAMING PHASE.
+[System] --- Turn 10 ---
+[Leader] 🧠 Thought: 鋭く右上がりのフォルムと滑空・飛行の印象を短く表す名前を選んだ。
+[Leader] 📐 Strategy: Naming_Proposal | Type: Holistic
+[Leader]    [Holistic]: ['グライダー']
+[Leader] 💡 Proposing Name: グライダー
+[System] 🗣️ Leader: では「グライダー」で。
+[Follower] 🤔 Thought: 提案名に同意しました。
+[Follower] 📐 Strategy: Type:None
+[Follower] 📊 PN (Unnamed): {}
+[Follower] 🛡️ PA (Named - Matching?): {B2:0.00, A2:0.00, A3:0.00}
+[Follower] 🤝 Accepted Name: グライダー
+[System] 🗣️ Follower: いいですね、グライダーで。
+[System] ✅ Naming Agreement Reached: グライダー
+[System] --- Turn 11 ---
+[Leader] ✅ Naming Completed: ID=B3, Name=グライダー
+[Leader] 🎯 Target Selected: A1
+[Leader] 🧠 Thought: A1を選び、直前の対話で使われたV字や右肩上がりなどは避け、A1の固有要素で短く特徴的な分析的表現に絞った。20文字±3の条件に合わせて簡潔な文にした。
+[Leader] 📐 Strategy: Description | Type: Analytic
+[Leader]    [Analytic]: ['太い胴', '左上の傾いた正方形']
+[System] 🗣️ Leader: 太い胴に左上の傾いた正方形
+[System] ⚠️ Follower says 'Arimasen'.
+[System] ⚠️ No match count: 1/2
+[Follower] 🤔 Thought: 合致なし。提示は「太い胴」と「左上の傾いた正方形」というAnalytic要素。これは浮いた正方形と大きな胴体を持つ図に強く一致し、命名済みの一つが「正方形のパーツが少し浮いて配置」「中央の胴体パーツが最大」という特徴を持つため強一致。未命名の2候補は、A1は左上は小三角で正方形要素がなく、全体も縦長で不一致。B1は左側に四角い切り欠きはあるが傾いた正方形パーツの明示がなく、太い胴の明確な記述も弱い。回転を考慮しても浮遊正方形の要素はB2に特異的で、未命名には適合しないと判断。
+[Follower] 📐 Strategy: Type:None
+[Follower] 📊 PN (Unnamed): {A1:0.50, B1:0.50}
+[Follower] 🛡️ PA (Named - Matching?): {B2:0.90, A2:0.30, A3:0.05, B3:0.05}
+[System] 🗣️ Follower: ありません
+[System] ⏳ Follower rejected. Skipping similarity check.
+[System] --- Turn 12 ---
+[Leader] 🧠 Thought: 前回は「太い胴」「左上の傾いた正方形」を伝えて不一致だったため、別のA1特徴から上向きの頂点と細長い印象で再提示。20文字条件も満たす表現に調整。
+[Leader] 📐 Strategy: Description | Type: Mixed
+[Leader]    [Analytic]: ['頂点が上を向く']
+[Leader]    [Holistic]: ['細長い像']
+[System] 🗣️ Leader: 頂点が上を向く細長い像です。
+[Follower] 🤔 Thought: 発話は全体印象の説明で、A1には「最上部に上を向いた鋭い三角形の頂点」「全体的に縦に長い」特徴が一致し強く適合。B1はS字や右向き土台などで「上向き頂点・細長さ」の強調が弱く低確率。命名済みではB3が斜め上を指す尖端と細長い印象でやや近く、中程度に設定。A2は太い軸で細長さとずれ、A3とB2は横長やどっしり土台で合致が低い。
+[Follower] 📐 Strategy: Type:Mixed
+[Follower]    [Analytic]: ['上向き頂点']
+[Follower]    [Holistic]: ['縦長']A
+[Follower] 📊 PN (Unnamed): {A1:0.85, B1:0.15}
+[Follower] 🛡️ PA (Named - Matching?): {B3:0.25, A2:0.15, B2:0.05, A3:0.05}
+[System] 🗣️ Follower: 当てはまります。上向き頂点で縦長です
+[System] 📏 Similarity: 0.805
+[System] ✨ High Similarity Detected. Switching to NAMING PHASE.
+[System] --- Turn 13 ---
+[Leader] 🧠 Thought: 短く覚えやすく、全体印象に合い、既存名と重複しない名称を選定。
+[Leader] 📐 Strategy: Naming_Proposal | Type: Holistic
+[Leader]    [Holistic]: ['サボテン番人']
+[Leader] 💡 Proposing Name: サボテン番人
+[System] 🗣️ Leader: では、この形は「サボテン番人」と呼びましょう。
+[Follower] 🤔 Thought: 提案名に同意し、短く自然に承認の返答を作成。
+[Follower] 📐 Strategy: Type:None
+[Follower] 📊 PN (Unnamed): {positive:0.99, negative:0.01}
+[Follower] 🛡️ PA (Named - Matching?): {B2:0.00, A2:0.00, A3:0.00, B3:0.00}
+[Follower] 🤝 Accepted Name: サボテン番人
+[System] 🗣️ Follower: いいですね、サボテン番人で。
+[System] ✅ Naming Agreement Reached: サボテン番人
+[System] --- Turn 14 ---
+[Leader] ✅ Naming Completed: ID=A1, Name=サボテン番人
+[Leader] 🎯 Target Selected: B1
+[Leader] 🧠 Thought: B1を狙い、過去に出た「上向き頂点」「傾いた正方形」「右肩上がり」「V字の谷」などの要素は避け、B1特有の全体S字と踊る女性の印象で短く表現。ひらがな換算で約18字になるよう調整した。
+[Leader] 📐 Strategy: Description | Type: Mixed
+[Leader]    [Analytic]: ['S字']
+[Leader]    [Holistic]: ['踊る女性']H
+[System] 🗣️ Leader: しなやかなS字の踊る女性です。
+[Follower] 🤔 Thought: 発話は「しなやかなS字の踊る女性」。B1には「全体的に緩やかなS字を描くシルエット」が明記され、抽象的な踊る姿の解釈とも整合するため最有力と判断しPNはB1=1.0。回転を考慮してもS字の全体感は維持される。他の命名済みは、A1に「踊っている人」があり一部一致するがS字とは限らないため中程度(0.25)。B3は「跳躍している人」「斜め上矢印」で動きの印象は近いがS字ではないため低め(0.1)。B2は「手を広げた人」で静的対称の印象が強くさらに低め(0.05)。A2(寝そべり/右傾斜)とA3(横長V谷)は今回のS字ダンサーと合致せず0.0とした。根拠表現は全体シルエットに基づくためHolisticを選択した。
+[Follower] 📐 Strategy: Type:Holistic
+[Follower]    [Holistic]: ['緩やかなS字']
+[Follower] 📊 PN (Unnamed): {B1:1.00}
+[Follower] 🛡️ PA (Named - Matching?): {A1:0.25, B3:0.10, B2:0.05, A2:0.00, A3:0.00}
+[System] 🗣️ Follower: 当てはまります。緩やかなS字
+[System] 📏 Similarity: 0.370
+[System] --- Turn 15 ---
+[Leader] 🧠 Thought: 直前に伝えた「S字」「踊る女性」は避け、B1の未使用の分析的特徴である上端の鋭い三角と右向きの土台を短く描写。ひらがな換算で約20字に収める。
+[Leader] 📐 Strategy: 既出情報を避けつつ、上端と下端の識別的パーツを示して特定を助ける。 | Type: Analytic
+[Leader]    [Analytic]: ['頂に鋭い三角', '右向きの台座']
+[System] 🗣️ Leader: 頂に鋭い三角、右向きの台座です。
+[Follower] 🤔 Thought: 発話は「頂に鋭い三角」「右向きの台座」。未命名候補ではB1が「最下部に右を向いた三角形の土台」に一致し、上部に先鋭な頂点が立つ見え方も自然で、回転差を考慮しても最も合致。よってB1=1.0。命名済みへの当てはまりは、A1が「最上部に上を向いた鋭い三角形の頂点」と一致度が高く0.63。B3は「右上の先端が尖る」が台座条件に弱く0.2。A2は下部の三角を足状とする点でやや類似0.1。B2は台形土台で不一致0.05、A3は横長や下向き小三角など不一致で0.02と低く設定。
+[Follower] 📐 Strategy: Type:Analytic
+[Follower]    [Analytic]: ['右向き土台', '頂の鋭角']
+[Follower] 📊 PN (Unnamed): {B1:1.00}
+[Follower] 🛡️ PA (Named - Matching?): {A1:0.63, B3:0.20, A2:0.10, B2:0.05, A3:0.02}
+[System] 🗣️ Follower: 当てはまります。右向き土台と頂の鋭角
+[System] 📏 Similarity: 0.755
+[System] ✨ High Similarity Detected. Switching to NAMING PHASE.
+[System] --- Turn 16 ---
+[Leader] 🧠 Thought: Chose a short, unique name evoking dance and flame to match the S-curve and upright, elegant impression.
+[Leader] 📐 Strategy: Naming_Proposal | Type: Holistic
+[Leader]    [Holistic]: ['炎舞像']
+[Leader] 💡 Proposing Name: 炎舞像
+[System] 🗣️ Leader: 『炎舞像』でどうでしょう。
+[Follower] 🤔 Thought: Accepted the proposed name and provided a concise, natural utterance without analytical or holistic descriptors.
+[Follower] 📐 Strategy: Type:None
+[Follower] 📊 PN (Unnamed): {positive:0.99, neutral:0.01, negative:0.00}
+[Follower] 🛡️ PA (Named - Matching?): {B2:0.00, A2:0.00, A3:0.00, B3:0.00, A1:0.00}
+[Follower] 🤝 Accepted Name: 炎舞像
+[System] 🗣️ Follower: いいですね、炎舞像で。
+[System] ✅ Naming Agreement Reached: 炎舞像
+[System] --- Turn 17 ---
+[System] 🎉 All Tangrams Identified!
+[System] 🏁 Simulation Finished.
+
+========================================
+
+📊 Expression Counts:
+   [Leader]
+     - Holistic: 14
+     - Analytic: 14
+     - Mixed   : 0
+   [Follower]
+     - Holistic: 6
+     - Analytic: 9
+     - Mixed   : 0
+
+💰 Token Usage Summary (Session 9):
+   [Leader]   In: 30422, Out: 20794 (Total: 51216)
+   [Follower] In: 33262, Out: 17164 (Total: 50426)
+   --------------------------------------------------
+   [TOTAL]    101642 tokens
+
+========================================
+📊 Final Naming Results:
+[Leader]   {"B2": "座禅僧", "A2": "片足ランナー", "A3": "V翼の鶴", "B3": "グライダー", "A1": "サボテン番人", "B1": "炎舞像"}
+[Follower] {"B2": "座禅僧", "A2": "片足ランナー", "A3": "V翼の鶴", "B3": "グライダー", "A1": "サボテン番人", "B1": "炎舞像"}
