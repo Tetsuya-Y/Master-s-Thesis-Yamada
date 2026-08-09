@@ -1,0 +1,24 @@
+Leader: 横に長く底が平らな折り紙の鳥 Mixed
+Follower: 折り紙の鳥で底が平ら。 Mixed
+Leader: では、この図形は『カモメの舟』と呼びましょう。 Holistic
+Follower: 素敵な名前ですね 
+Leader: X字で中央くびれ四方に角です。 Mixed
+Follower: X字で四方に角ですね Mixed
+Leader: それなら、この図形は『手裏剣』と呼びましょう。 Holistic
+Follower: 手裏剣でいきましょう。 Holistic
+Leader: 縦長の柱で右に小三角だよ Analytic
+Follower: 中央が柱で右に小三角です Analytic
+Leader: それなら、この図形は『柱サボテン』と呼びましょう。 Holistic
+Follower: いいですね、柱サボテンで。Holistic
+Leader: 祈る横顔が積み木みたいに重なる Mixed
+Follower: 縦に積み重なり右が直線です Analytic
+Leader: それでは、この図形は『祈りの横顔』と呼びませんか？ Holistic
+Follower: 賛成です。 
+Leader: 右上に四角い頭で走る人だよ Mixed
+Follower: 右上に傾く正方形 Analytic
+Leader: 『駆ける人』で Holistic
+Follower: いいですね、駆ける人で。Holistic
+Leader: 弓なりで中央が太い跳ねるウサギ Mixed
+Follower: 中央が太く右下が蹴る Analytic
+Leader: では、この図形は『跳ねるウサギ』と呼びませんか？ Holistic
+Follower: いいですね、跳ねるウサギで。Holistic

@@ -1,0 +1,42 @@
+Leader: 折り鶴船。 Holistic
+Follower: 折り紙の鳥？ Mixed
+Leader: 王冠っぽいね。 Holistic
+Follower: M字で山並み。 Analytic
+Leader: 左が尾 Analytic
+Follower: 左が尾 Analytic
+Leader: では、「カモメ」でどう？ Holistic
+Follower: 賛成
+Leader: 手裏剣？ Holistic
+Follower: あるよ、星型 Analytic
+Leader: 蝶ネクタイ？ Holistic
+Follower: あるよ、クロス形 Analytic
+Leader: 風車かな？ Holistic
+Follower: 手裏剣 Holistic
+Leader: 道が交差だよ Mixed
+Follower: あるよ、クロス Analytic
+Leader: くびれありだね Analytic
+Follower: 手裏剣 Holistic
+Leader: 四方に角だね。 Analytic
+Follower: 四方に角 Analytic
+Leader: では、名前は「手裏剣」で。 Holistic
+Follower: 賛成
+Leader: サボテン柱 Holistic
+Follower: 柱太い Analytic
+Leader: 縦に細長くて頂点も尖ってるし、中央も太い。雰囲気はサボテン。じゃあ、名前は「サボテン」でどう？ Mixed
+Follower: 賛成
+Leader: 祈る横顔。 Mixed
+Follower: ある、頭傾きで弓なり Analytic
+Leader: 右直線だよ Analytic
+Follower: 右側直線 Analytic
+Leader: それなら、名前は「祈り」でどうかな？ Holistic
+Follower: 賛成
+Leader: 右下で蹴る。 Analytic
+Follower: 右下で蹴る Analytic
+Leader: では、「ダッシュ」でどう？ Holistic
+Follower: 賛成
+Leader: カンガルーだね。 Holistic
+Follower: ある、弓なり Analytic
+Leader: 頭傾き Mixed
+Follower: 右上四角斜め Analytic
+Leader: 跳ねる雰囲気だし、「ウサギ」でどう？ Holistic
+Follower: 賛成

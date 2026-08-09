@@ -1,0 +1,36 @@
+Leader: 僧侶が羽を広げ座る形 Holistic
+Follower: 左右対称で土台あり Analytic
+Leader: 卓上の急須みたいです Holistic
+Follower: 左右対称で土台あり Analytic
+Leader: てっぺんに角立つ正方形がある Analytic
+Follower: 台座あり、角正方形 Analytic
+Leader: それなら、この図形は『座禅僧』と名付けませんか？ Holistic
+Follower: 賛成です
+Leader: 前傾で駆け出すランナーです。 Holistic
+Follower: 跳躍する人で右上がり Mixed
+Leader: 右上に離れた正方形です Analytic
+Follower: 角向かい合う正方形です Analytic
+Leader: それでは、この図形は『疾走』と呼びませんか？ Holistic
+Follower: 賛成です。 
+Leader: 水面に浮かぶ白鳥です Holistic
+Follower: 横長で翼を休める鳥 Mixed
+Leader: 中央に深いV字の谷間です Analytic
+Follower: 横長で中央V谷間です Analytic
+Leader: 『白鳥』で。Holistic
+Follower: 賛成です
+Leader: 右肩上がりでV字の切れ込みの矢 Mixed
+Follower: 斜め上の矢でV字切れ込み Analytic
+Leader: 右肩上がりで鋭く前進する印象から、『翔矢』はどうでしょう。 Mixed
+Follower: 賛成です。 
+Leader: 直立で右が膨らむ感じです Analytic
+Follower: ある、縦長で右膨らみ Analytic
+Leader: それでは、『守護柱』と呼びませんか？ Holistic
+Follower: 賛成です。 
+Leader: 揺らめく炎のシルエットです Holistic
+Follower: S字で台座あり Mixed
+Leader: 祈る人影で上に尖る三角 Mixed
+Follower: S字で台座あり Mixed
+Leader: 左中に傾く四角あり Analytic
+Follower: 左中に四角欠け Analytic
+Leader: 『舞炎』で。Holistic
+Follower: 賛成です。 

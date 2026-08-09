@@ -1,0 +1,28 @@
+Leader: 横長で水面に浮く鳥です。 Mixed
+Follower: 合います。水平な底と首 Analytic
+Leader: 左尾が伸び中央に峰形 Analytic
+Follower: 合うね 左尾と峰 Analytic
+Leader: では、この図形は『折り鶴』でいかがでしょう。 Holistic
+Follower: いいですね。
+Leader: くびれた×型の手裏剣かな。 Mixed
+Follower: 合うね。X字で手裏剣。 Mixed
+Leader: それでは、名前は『手裏剣』でいきましょう。 Holistic
+Follower: 賛成です。
+Leader: 縦長で先端鋭いロケット Mixed
+Follower: 合うね 縦長と尖り Analytic
+Leader: 柱太めで右に小三角ね Analytic
+Follower: 合います。中央太めで右に小三角。 Analytic
+Leader: 縦長ロケットで Mixed
+Follower: 賛成です。
+Leader: 右側直線で縦長の横顔。 Mixed
+Follower: 合うね 右直線で縦長 Analytic
+Leader: 『祈る人』で Holistic
+Follower: 賛成です。
+Leader: 右に傾く走る人です。 Mixed
+Follower: 合うね右傾きと蹴り Analytic
+Leader: では、名前は『ランナー』でいきましょう。 Holistic
+Follower: 賛成です。
+Leader: 弓なりで中央太い跳ねウサギ Mixed
+Follower: 合うね弓なり太め Analytic
+Leader: それなら、名前は『跳ねウサギ』でどうでしょう。 Holistic
+Follower: 賛成です。

@@ -1,0 +1,30 @@
+Leader: 右端に三角の頭 Mixed
+Follower: 右に小三角 Analytic
+Leader: 『折鶴』で Holistic
+Follower: 賛成です
+Leader: X字の手裏剣かな Mixed
+Follower: 手裏剣で四方角 Mixed
+Leader: では、名前は「風車」にしましょう。 Holistic
+Follower: 風車で決まり Holistic
+Leader: サボテンみたいな柱 Holistic
+Follower: ある 縦積み柱 Analytic
+Leader: では、名前は「ロケット」でいかがでしょう。 Holistic
+Follower: 賛成です
+Leader: 右側が直線です。 Analytic
+Follower: ある首が垂直 Analytic
+Leader: 上に右向き三角です。 Analytic
+Follower: 合う 右首直立 Analytic
+Leader: では、「祈り像」で。 Holistic
+Follower: 賛成です
+Leader: 駆け出す人影かな Holistic
+Follower: 右下が蹴るね Analytic
+Leader: 右上に四角頭かな Mixed
+Follower: 合う 右上正方 Analytic
+Leader: それなら、名前は「ランナー」にしませんか。 Holistic
+Follower: 賛成です
+Leader: 跳ねるウサギの影かな Holistic
+Follower: 右下が蹴るね Analytic
+Leader: 中央太く弓なり Analytic
+Follower: 中央太いね Analytic
+Leader: 『跳ねウサギ』で Holistic
+Follower: 賛成です

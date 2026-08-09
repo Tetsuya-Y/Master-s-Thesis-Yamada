@@ -1,0 +1,32 @@
+Leader: 尾が伸びる鳥の舟？ Mixed
+Follower: 鳥で尾が長い Mixed
+Leader: では、名前は「折り鶴」でどうでしょう。 Holistic
+Follower: いいですね
+Leader: 手裏剣っぽい形？ Holistic
+Follower: 四方に角だね Analytic
+Leader: X字でくびれある？ Mixed
+Follower: X字でくびれ Analytic
+Leader: それなら、名前は「手裏剣」でいきましょう。 Holistic
+Follower: 賛成です
+Leader: 縦長ロケット柱かな Mixed
+Follower: ロケットで縦長 Mixed
+Leader: ロケットで Holistic
+Follower: 賛成です
+Leader: 祈る横顔の像かな？ Mixed
+Follower: ある、柱太く非対称 Analytic
+Leader: 右側直線的だ Analytic
+Follower: ありません
+Leader: 上に右向き三角ある？ Analytic
+Follower: ある、右に小三角 Analytic
+Leader: それでは、名前は「祈り像」でいきましょう。 Holistic
+Follower: 賛成です
+Leader: 右下で蹴る人かな Mixed
+Follower: ある、走る人影 Holistic
+Leader: 右上は四角い頭？ Mixed
+Follower: ある、右上は四角 Analytic
+Leader: では、名前は「ダッシュ」でいきましょう。 Holistic
+Follower: 賛成です
+Leader: 弓なりで尾ある跳ねウサギ？ Mixed
+Follower: ある、弓なりで尾尖る Analytic
+Leader: それなら、名前は「跳びウサギ」でどうでしょう。 Holistic
+Follower: 賛成です

@@ -1,0 +1,36 @@
+Leader: 右上から左下へくねるよ Analytic
+Follower: うん、S字で右上左下 Mixed
+Leader: 『宙返りイルカ』で Holistic
+Follower: いいね、その名前で 
+Leader: 右が直線で下は台形 Analytic
+Follower: あるよ、右直線で下は台形 Analytic
+Leader: じゃあ、名前は『杖つき翁』でどう？ Holistic
+Follower: いいね、それでいこう 
+Leader: サボテンみたいに柱が立つね Holistic
+Follower: 中央に細い柱と台形の土台あるよ Analytic
+Leader: それなら、名前は「バンザイサボテン」でどう？ Holistic
+Follower: 賛成、その名前で 
+Leader: 祈る天使のシルエットだね Holistic
+Follower: 中央柱と翼っぽい Analytic
+Leader: 王冠を被る人に見えるよ Holistic
+Follower: 人型で上が台形 Mixed
+Leader: てっぺんに傾いた正方形ある？ Analytic
+Follower: ないよ、右上は台形 Analytic
+Leader: 横へ鋭い三角が突き出すよ Analytic
+Follower: あるよ、右に鋭い三角 Analytic
+Leader: それなら、名前は「祈りの天使」でどう？ Holistic
+Follower: 賛成です。 
+Leader: 横歩きのカニの紋章だよ Mixed
+Follower: 四方へ尖るね Analytic
+Leader: 中央に縦長の柱が立つよ Analytic
+Follower: 中央柱ある Analytic
+Leader: それなら「カニ紋章」で。 Holistic
+Follower: 賛成です。 
+Leader: 滑空するツバメに見えるよ Holistic
+Follower: 飛ぶ鳥でV字だね Mixed
+Leader: 鋭い矢印の輪郭だよ Holistic
+Follower: 紙飛行機でV字 Mixed
+Leader: 横たわる人の影だね Holistic
+Follower: 人影でV字だね Mixed
+Leader: 『ツバメの矢』で Holistic
+Follower: いいね、その名前で 

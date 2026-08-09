@@ -1,0 +1,24 @@
+Leader: 横長で右端に鳥の頭があります。 Mixed
+Follower: 横長で右端に首が立つ鳥です。 Mixed
+Leader: では、この図形は「折り鶴舟」でいかがでしょう。 Holistic
+Follower: いいですね、賛成です。 
+Leader: くびれX字で右上に平行四辺形 Analytic
+Follower: X字で右上平行四辺形 Analytic
+Leader: では手裏剣でどう？ Holistic
+Follower: 手裏剣で賛成です。 Holistic
+Leader: 縦長で先が尖り右に小さな三角 Analytic
+Follower: 右に小三角で尖頂の縦長 Analytic
+Leader: 「サボテンロケット」で。Holistic
+Follower: いいですね、賛成です。 
+Leader: 祈る横顔で右が直線に見える。 Analytic
+Follower: 祈る横顔で右辺直線 Mixed
+Leader: では、この図形は「祈る横顔」と呼びませんか？ Holistic
+Follower: いいですね、賛成です。 Holistic
+Leader: 右上に四角頭で右傾の走者ですね。 Mixed
+Follower: 右上正方形で右傾の走者です Mixed
+Leader: 右に傾いた走者のイメージで、『駆け足』はどうでしょう。 Mixed
+Follower: いいですね、賛成です。 
+Leader: 弓なりで中央が太い跳ねるウサギ Mixed
+Follower: 合うよ、弓なり中央太い Analytic
+Leader: では、この図形は『跳ねウサギ』でいかがでしょう。 Holistic
+Follower: いいですね、賛成です。 

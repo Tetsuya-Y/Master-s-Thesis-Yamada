@@ -1,0 +1,44 @@
+Leader: 座禅僧かな Holistic
+Follower: あるよ椅子の人 Holistic
+Leader: 大きな蝶 Holistic
+Follower: あるよ対称 Analytic
+Leader: 両手広げ？ Holistic
+Follower: 手を広げた人 Holistic
+Leader: では、名前は「座禅」でいきましょう。 Holistic
+Follower: 了解
+Leader: 疾走者かな Holistic
+Follower: 右上傾斜 Analytic
+Leader: 旗振りかな Holistic
+Follower: 矢印 Holistic
+Leader: では、名前は「颯爽」でどうでしょう。 Holistic
+Follower: 了解
+Leader: 白鳥かな Holistic
+Follower: あるよ横長 Analytic
+Leader: 折り鶴だね Holistic
+Follower: あるよ横長 Analytic
+Leader: 小舟かな Holistic
+Follower: あるよ小舟 Holistic
+Leader: では、名前は『折鶴』でいきましょう。 Holistic
+Follower: 了解
+Leader: 紙飛行機 Holistic
+Follower: あるよ低空飛行 Holistic
+Leader: 太い矢印？ Holistic
+Follower: 矢印 Holistic
+Leader: では、名前は「滑空」でいきましょう。 Holistic
+Follower: 賛成
+Leader: サボテン像かな Holistic
+Follower: あるよ縦長 Analytic
+Leader: 休む鳥かな Holistic
+Follower: ありません
+Leader: 右に膨らみ？ Analytic
+Follower: あるよ右膨らみ Analytic
+Leader: 『サボテン』で Holistic
+Follower: 了解
+Leader: 祈り像かな Holistic
+Follower: ありません
+Leader: 舞姫かな？ Holistic
+Follower: あるよ一本脚 Holistic
+Leader: 炎の塔でどう？ Holistic
+Follower: 塔っぽい Holistic
+Leader: では、名前は「舞姫」でいきましょう。 Holistic
+Follower: 了解

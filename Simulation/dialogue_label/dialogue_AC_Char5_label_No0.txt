@@ -1,0 +1,48 @@
+Leader: 水鳥だよ Holistic
+Follower: 翼広げた鳥？ Holistic
+Leader: 王冠みたいね Holistic
+Follower: 山並み？ Holistic
+Leader: 平底の船 Holistic
+Follower: 平底だ Analytic
+Leader: では、「水鳥」でいきましょう。 Holistic
+Follower: 賛成。
+Leader: 風車かな Holistic
+Follower: 手裏剣？ Holistic
+Leader: 蝶ネクタイ？ Holistic
+Follower: 手裏剣？ Holistic
+Leader: X形？ Analytic
+Follower: ある、エックス字 Analytic
+Leader: それなら、「手裏剣」でいこう。 Holistic
+Follower: 賛成。
+Leader: 縦長ロケット Mixed
+Follower: 墜落？ Holistic
+Leader: トーテム柱？ Holistic
+Follower: 縦長だ Analytic
+Leader: サボテン風かな Holistic
+Follower: 左突出？ Analytic
+Leader: 右に角 Analytic
+Follower: ある、右小角 Analytic
+Leader: じゃあ、名前は「サボテン」でどう？ Holistic
+Follower: 賛成
+Leader: 祈る人かな Holistic
+Follower: ある、弓なり Analytic
+Leader: 横顔だね Holistic
+Follower: ある、弓なり Analytic
+Leader: 右は直線 Analytic
+Follower: ある、右直線 Analytic
+Leader: じゃあ、『祈り』でいこう。 Holistic
+Follower: 賛成
+Leader: 駆ける人？ Holistic
+Follower: ある、走る人影 Holistic
+Leader: 右に傾いた走る人、名前は『疾走』で。 Holistic
+Follower: 賛成
+Leader: 跳ねウサギ？ Holistic
+Follower: ありません
+Leader: カンガルー？ Holistic
+Follower: ある、弓なり Analytic
+Leader: 飛び込む人？ Holistic
+Follower: ある、弓なり Analytic
+Leader: 傾く頭 Mixed
+Follower: ある、傾正方 Analytic
+Leader: では、名前は「キツネ」で。 Holistic
+Follower: 賛成

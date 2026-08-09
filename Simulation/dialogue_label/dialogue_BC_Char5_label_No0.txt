@@ -1,0 +1,50 @@
+Leader: 飛ぶイルカ Holistic
+Follower: ある鳥形 Holistic
+Leader: 宙返りかな Holistic
+Follower: あるよ、アクロバット Holistic
+Leader: S字っぽいね Holistic
+Follower: S字だ Holistic
+Leader: それなら、名前は『バクテン』でいきましょう。 Holistic
+Follower: 了解
+Leader: 縦の塔かな Mixed
+Follower: タテ長 Analytic
+Leader: 片耳犬かな Holistic
+Follower: のびネコ Holistic
+Leader: 台形土台？ Analytic
+Follower: 台形だ Analytic
+Leader: それなら、名前は「ビル」でいきましょう。 Holistic
+Follower: 賛成
+Leader: サボテンか Holistic
+Follower: 四方トゲ Holistic
+Leader: それでは、この図形は「サボテン」と呼びましょう。 Holistic
+Follower: 了解
+Leader: 祈る天使 Holistic
+Follower: あるよ、縦柱像 Mixed
+Leader: 王冠像かな Holistic
+Follower: タテ柱 Analytic
+Leader: 翼の鳥かな Holistic
+Follower: V字鳥 Mixed
+Leader: それなら、名前は「天使」でいきましょう。 Holistic
+Follower: 了解
+Leader: 蟹歩きかな Holistic
+Follower: 右トゲだ Analytic
+Leader: 折鶴紋かな。 Holistic
+Follower: 右トゲ Analytic
+Leader: 手裏剣かも Holistic
+Follower: ありません
+Leader: 羽ドローンかな Holistic
+Follower: 右トゲ Analytic
+Leader: 縦柱だね Analytic
+Follower: タテ柱 Analytic
+Leader: それなら、名前は「カニ」でいきましょう。 Holistic
+Follower: 了解
+Leader: ブーメランかな Holistic
+Follower: ありません
+Leader: V字の矢印？ Mixed
+Follower: 右トゲ Analytic
+Leader: ツバメかな Holistic
+Follower: ある鳥形 Holistic
+Leader: 跳ね魚？ Holistic
+Follower: 魚形だ Holistic
+Leader: それでは、この図形は「トビウオ」と呼びましょう。 Holistic
+Follower: 了解

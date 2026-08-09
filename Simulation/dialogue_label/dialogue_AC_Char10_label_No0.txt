@@ -1,0 +1,26 @@
+Leader: 横長の折り紙の鳥 Mixed
+Follower: 折り紙の鳥で横長 Mixed
+Leader: 『水鳥』でどう？ Holistic
+Follower: それでいこう Holistic
+Leader: 風車みたいなX字 Mixed
+Follower: X字っぽい Analytic
+Leader: じゃあ、名前は「手裏剣」でいこう。 Holistic
+Follower: 賛成です
+Leader: 縦長のロケット Mixed
+Follower: 縦長で台座 Analytic
+Leader: 柱太く尖ったサボテン Mixed
+Follower: 合う、柱太く尖頂 Analytic
+Leader: 縦に細長くて先が尖ってるし、名前は「サボテン」でどう？ Mixed
+Follower: 賛成です
+Leader: 右直線の祈る人 Mixed
+Follower: 右直線で台座 Analytic
+Leader: それなら、名前は『祈り像』でいかが？ Holistic
+Follower: 賛成です
+Leader: 走る人に見える Holistic
+Follower: 走る人影だね Holistic
+Leader: 走り出す感じだから、名前は「疾走」でどう？ Holistic
+Follower: 賛成です
+Leader: 右上斜めの頭かな？ Mixed
+Follower: 右上ななめ頭 Mixed
+Leader: じゃあ、名前は「跳ねウサギ」でどう？ Holistic
+Follower: 賛成です

@@ -1,0 +1,52 @@
+Leader: 水鳥の舟 Holistic
+Follower: 翼の鳥で下部広め Mixed
+Leader: 王冠型かな Holistic
+Follower: M字山 Analytic
+Leader: 尾長鳥かな Holistic
+Follower: 左に尾だね Analytic
+Leader: では、『オリヅル』でどう？ Holistic
+Follower: いいね
+Leader: 手裏剣？ Holistic
+Follower: 星形 Analytic
+Leader: 風車かな？ Holistic
+Follower: 星形だね Analytic
+Leader: 蝶ネクタイかな？ Holistic
+Follower: 星形だね Analytic
+Leader: 交差道かな？ Holistic
+Follower: X字だね Analytic
+Leader: 中央くびれ Mixed
+Follower: X字だね Analytic
+Leader: 右上菱形？ Analytic
+Follower: 右上菱形 Analytic
+Leader: では、『バッテン』でどう？ Holistic
+Follower: 賛成
+Leader: 縦長ロケット？ Mixed
+Follower: 縦長で台座 Analytic
+Leader: サボテンかな Holistic
+Follower: 縦長で台座だね Analytic
+Leader: では、この図形は『サボテン』でどう？ Holistic
+Follower: 賛成
+Leader: 祈る横顔 Mixed
+Follower: 踊る人 Holistic
+Leader: 右上三角 Analytic
+Follower: 右小三角 Analytic
+Leader: では、この図形は『祈り』でいかがでしょう。 Holistic
+Follower: 賛成
+Leader: 走る人かな Holistic
+Follower: X字で蹴る Analytic
+Leader: 逃げ姿かな Holistic
+Follower: X字で蹴る Analytic
+Leader: 大菱形 Analytic
+Follower: 中央菱形 Analytic
+Leader: では、「キック」でいかがでしょう。 Holistic
+Follower: 賛成
+Leader: 跳ねウサギかな？ Holistic
+Follower: 弓なり Analytic
+Leader: 踊り子？ Holistic
+Follower: 弓なり Analytic
+Leader: 影絵のキツネ？ Holistic
+Follower: 弓なりだね Analytic
+Leader: 頭かたむき Mixed
+Follower: 右上傾き Analytic
+Leader: それなら、名前は「ウサギ」でどうかな？ Holistic
+Follower: 賛成

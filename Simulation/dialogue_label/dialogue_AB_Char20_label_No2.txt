@@ -1,0 +1,24 @@
+Leader: 左右対称で両翼広げ座像 Mixed
+Follower: 左右対称で翼を広げ台形土台です Analytic
+Leader: では、「座禅蝶」で。Holistic
+Follower: 賛成です。座禅蝶で。Holistic
+Leader: 右上に離れた正方形で走る人です Mixed
+Follower: 当てはまる。走る人。角対向。 Mixed
+Leader: この図形は『スプリンター』と呼びましょう。 Holistic
+Follower: いいですね。スプリンターで。Holistic
+Leader: 横長で中央に深いV字の鳥です Mixed
+Follower: 当てはまる。横長で中央V字の鳥。 Mixed
+Leader: では、名前は「水面の白鳥」にしませんか。 Holistic
+Follower: いいですね。水面の白鳥で。Holistic
+Leader: 太い矢印が疾走する形ですね Holistic
+Follower: 当てはまる。斜め上矢印。 Analytic
+Leader: では、名前は「スカイアロー」でいかがでしょう。 Holistic
+Follower: 賛成です。スカイアローで。Holistic
+Leader: 中央に太い胴と右の大きな膨らみ Analytic
+Follower: 当てはまる。中央太い胴と右膨らみ。 Analytic
+Leader: では、「見張りサボテン」で。Holistic
+Follower: いいですね。見張りサボテンで。Holistic
+Leader: 先端が尖り炎のようなS字の像です Mixed
+Follower: 当てはまる。S字で先端尖り。 Analytic
+Leader: 揺らめく炎を思わせます。では、「舞炎」で。Holistic
+Follower: 賛成です。舞炎で。Holistic

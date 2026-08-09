@@ -1,0 +1,32 @@
+Leader: 左右対称の蝶の座像です Mixed
+Follower: 左右対称で台形土台です Analytic
+Leader: 両腕を広げた人の図です Holistic
+Follower: 左右対称で手を広げた人です Holistic
+Leader: それでは、名前は「蝶僧」でいかがでしょう。 Holistic
+Follower: 賛成です。 
+Leader: 右上に離れた四角の走者です。 Mixed
+Follower: 右上に浮く正方形です Analytic
+Leader: では、名前は「スプリンター」でどうでしょう。 Holistic
+Follower: 賛成です。 
+Leader: 紙の鶴の横長姿です Mixed
+Follower: 横長で翼を休めた鳥 Mixed
+Leader: 水上を進む小舟の姿です Holistic
+Follower: 帆を立てた小舟です Holistic
+Leader: では『白鳥』で。Holistic
+Follower: 賛成です
+Leader: 右上がりの紙飛行機です Holistic
+Follower: 当てはまる斜め上矢印 Holistic
+Leader: 深いV字の高速機です Mixed
+Follower: 当てはまる深いV字です Analytic
+Leader: では『飛矢』で。Holistic
+Follower: 賛成です。 
+Leader: 太い胴で右が膨らむ像です Mixed
+Follower: 当てはまる右膨らみ Analytic
+Leader: 『サボテンマン』でHolistic
+Follower: 賛成です。 
+Leader: 炎のようなS字の祈り姿です Holistic
+Follower: 当てはまる緩やかなS字です Holistic
+Leader: 上に鋭い三角が立つ像です Mixed
+Follower: 上の鋭い三角です Analytic
+Leader: それでは、名前は「舞炎」でいかがでしょう。 Holistic
+Follower: 賛成です。 

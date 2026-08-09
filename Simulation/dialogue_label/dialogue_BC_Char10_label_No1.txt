@@ -1,0 +1,30 @@
+Leader: 右上に孤立四角だよ。 Analytic
+Follower: あるよ 角の正方形 Analytic
+Leader: それでは、この図形は「宙返り」と呼びませんか？ Holistic
+Follower: いいですね。 
+Leader: 左に四角の凹みだよ。 Analytic
+Follower: 左に四角の凹みあるよ。 Analytic
+Leader: それでは、この図形は「記念碑」と呼びませんか？ Holistic
+Follower: いいですね。 
+Leader: 上向き三角と柱 Analytic
+Follower: 柱と帆の三角 Analytic
+Leader: それじゃ、名前は『サボテン』にしよう。 Holistic
+Follower: いいですね。 
+Leader: 祈る天使みたいだよ。 Holistic
+Follower: 蝶に見える Holistic
+Leader: 王冠の人みたい Holistic
+Follower: 踊る人だね Holistic
+Leader: 斜めの正方形だね。 Analytic
+Follower: 斜めの正方形あるよ Analytic
+Leader: 『天使像』で Holistic
+Follower: 賛成です
+Leader: 横歩きのカニかな Mixed
+Follower: 四方にトゲだね Holistic
+Leader: 中央に柱が立つね Analytic
+Follower: 中央に柱ある Analytic
+Leader: それじゃ、名前は『蟹紋』でどう？ Holistic
+Follower: 賛成です
+Leader: V字に折れたツバメかな Mixed
+Follower: V字で鳥だね Mixed
+Leader: それじゃ、名前は『ツバメ』にしよう。 Holistic
+Follower: 賛成です

@@ -1,0 +1,30 @@
+Leader: 水平に長い折り紙の鳥です。 Mixed
+Follower: 折り紙の鳥で合うよ Mixed
+Leader: それなら名前は「水鳥」でどうでしょう？ Holistic
+Follower: いい名前ですね Holistic
+Leader: 中央がくびれたバッテン形です。 Analytic
+Follower: X字構成で合うよ Analytic
+Leader: 右上は平行四辺形だよ Analytic
+Follower: 右上平行四辺形だよ Analytic
+Leader: それでは、名前は「手裏剣」でいかがでしょう。 Holistic
+Follower: 手裏剣で決まり Holistic
+Leader: サボテンのように細長い柱です。 Mixed
+Follower: 縦長で柱状で合うよ Analytic
+Leader: 「トーテム」で Holistic
+Follower: 決まりですね Holistic
+Leader: 祈る人の横顔に見えるよ Mixed
+Follower: 弓なりで背中なめらかだね Mixed
+Leader: 上に右向き三角があるよ Analytic
+Follower: 合うよ 右側小三角 Analytic
+Leader: では、名前は『祈り像』でどうでしょう？ Holistic
+Follower: 祈り像で決まり Holistic
+Leader: 右に傾く駆ける人 Mixed
+Follower: 右傾で走者に合うよ Mixed
+Leader: それでは、名前は『ランナー』でいかがでしょう？ Holistic
+Follower: ランナーで決まり！ Holistic
+Leader: 弓なりで中央が太いよ Analytic
+Follower: ありません
+Leader: 右上に傾いた頭がある Mixed
+Follower: 右側小三角で合うよ Analytic
+Leader: それなら、名前は「跳ねウサギ」でどうでしょう？ Holistic
+Follower: 跳ねウサギで決まり！ Holistic

@@ -1,0 +1,26 @@
+Leader: 右上正方形と鋭三角、S字胴が左下へ。 Mixed
+Follower: S字胴で左下へ流れ、正方形があるね Mixed
+Leader: では、この図形は「宙返りイルカ」でいかがでしょう。 Holistic
+Follower: いいですね、その名前ぴったりです。 
+Leader: 右が垂直の直線で左に四角の凹み Analytic
+Follower: 右辺が垂直で左に四角の凹みだね Analytic
+Leader: では、この図形は「杖つきロボ」と呼びませんか？ Holistic
+Follower: いいですね、その名前にしましょう。 
+Leader: サボテン風に中央柱が立ち、左に台が出ます。 Analytic
+Follower: サボテン風で柱と左の台が一致です Analytic
+Leader: では『バンザイサボテン』で。 Holistic
+Follower: いいですね、その名前でいきましょう。 
+Leader: 祈る天使のようで左に翼が広がる Mixed
+Follower: 左に翼状三角が広がり合うよ Analytic
+Leader: では、この図形は「祈りの天使」と呼びませんか？ Holistic
+Follower: 賛成です、その名前で。 
+Leader: 横歩きのカニみたいで中央縦長に尖り散るよ Mixed
+Follower: 中央縦長で四方に尖る形だね Analytic
+Leader: 左上直角三角、右下に鋭い先だよ Analytic
+Follower: 左上は直角三角、右下が鋭い先ね Analytic
+Leader: それなら、名前は「カニの紋章」でどうでしょう。 Holistic
+Follower: いいですね、その名前でいきましょう。 
+Leader: 左に大きな三角を持ちV字に折れる形です Analytic
+Follower: 左の大三角と中央V折れだね Analytic
+Leader: 『飛燕の矢』で。 Holistic
+Follower: いいですね、その名前でいきましょう。 

@@ -1,0 +1,26 @@
+Leader: 横長で底が平ら、右端に三角の頭。 Analytic
+Follower: 合いそう 底が平らで右に首が立つ Analytic
+Leader: 『折り鶴舟』で。Holistic
+Follower: いいですね、その名でいきましょう。 
+Leader: くびれたバツ形で右上に平行四辺形かな Analytic
+Follower: それ合う、右上に平行四辺形でバツ形。 Analytic
+Leader: この形は「手裏剣リボン」でどうでしょう？ Holistic
+Follower: いいですね、その名でいきましょう。 
+Leader: 縦長サボテン風、左下に平行四辺形。 Analytic
+Follower: 合いそう 中央が柱太く下部広い Analytic
+Leader: 先端鋭く右に小三角が付くロケット Mixed
+Follower: 右に小三角と鋭い先端で合う Analytic
+Leader: では「サボテンロケット」で。Holistic
+Follower: いいですね、その名でいきましょう。 
+Leader: 右は直線、左に四角が突き出す祈る横顔 Mixed
+Follower: 合う 右が直線で左に四角突出 Analytic
+Leader: では、この図形は『祈りの座像』でいかがでしょう。 Holistic
+Follower: いいですね、その名でいきましょう。 
+Leader: 右上に正方形の頭で右寄りに走る人影 Mixed
+Follower: 合う、右上に正方形で弓なり。 Analytic
+Leader: では、この形は『キックランナー』でいかがでしょう。 Holistic
+Follower: いいですね、その名でいきましょう。 
+Leader: 傾いた頭に左下しっぽ三角のカンガルー Mixed
+Follower: 合う 右傾きで左下三角しっぽ Analytic
+Leader: 『跳ねウサギ』で。Holistic
+Follower: いいですね、その名でいきましょう。 
